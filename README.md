@@ -6,9 +6,12 @@
 ## Education
 
 
-- **Masters in Specialized Economic Analysis** | Barcelona School of Economics (_June 2014_)
-- **BSc(Honors) Economics & Finance** | Lahore School of Economics (_June 2013_)
-   		
+
+| Education                                | Institution                    | Date           |
+| ---------------------------------------- | ------------------------------ | --------------- |
+| **Masters in Specialized Economic Analysis** | Barcelona School of Economics | (_June 2014_)  |
+| **BSc(Honors) Economics & Finance**       | Lahore School of Economics    | (_June 2013_)  |
+
 
 ## Work Experience
 **Consultant Economist @ World Bank Group (_April 2019 - Present_)**
