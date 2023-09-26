@@ -4,8 +4,9 @@
 #### Technical Skills: Stata, Python, R, SQL, ODK, Survey Solutions, Github
 
 ## Education
-- Masters in Specialized Economic Analysis | Barcelona School of Economics (_June 2014_)								       		
-- BSc(Honors) Economics & Finance | Lahore School of Economics             (_June 2019_)	 			        		
+
+- MA in Specialized Economic Analysis | Barcelona School of Economics (_June 2014_)								       		
+- BSc(Honors) Economics & Finance     | Lahore School of Economics    (_June 2013_)	 			        		
 
 ## Work Experience
 **Consulant Economist @ World Bank Group (_June 2020 - Present_)**
