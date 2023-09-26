@@ -9,11 +9,11 @@
 - BSc(Honors) Economics & Finance     | Lahore School of Economics    (_June 2013_)	 			        		
 
 ## Work Experience
-**Consulant Economist @ World Bank Group (_June 2020 - Present_)**
+**Consultant Economist @ World Bank Group (_April 2019 - Present_)**
 
-**Project Manager @ CERP (_December 2020 - Present_)**
+**Project Manager @ CERP (_July 2018 - April 2019)**
 
-**Senior Research Associate @ CERP (_December 2020 - Present_)**
+**Senior Research Associate @ CERP (_June 2014 - _July2018)**
 
 
 
