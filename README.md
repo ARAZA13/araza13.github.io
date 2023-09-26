@@ -5,10 +5,11 @@
 
 ## Education
 
-| Education                            | Institution                   | Date              |
-| ------------------------------------ | ------------------------------| ------------------|
-| MSc in Specialized Economic Analysis | Barcelona School of Economics | (_June&nbsp;2014_) |
-| BSc(Honors) Economics & Finance      | Lahore School of Economics    | (_June&nbsp;2013_) |
+| Education                            | Institution                   | Date         |
+| ------------------------------------ | ------------------------------| ------------ |
+| MSc in Specialized Economic Analysis | Barcelona School of Economics | (_Jun 2014_) |
+| BSc(Honors) Economics & Finance      | Lahore School of Economics    | (_Jun 2013_) |
+
 
 
 ## Work Experience
