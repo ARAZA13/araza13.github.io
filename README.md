@@ -18,11 +18,8 @@ Ahmed is a structured thinker, economist & data scientist originally from Pakist
 
 ## Expertise:
 
-<div align="justify"> 
-
 Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. With experience in research management, team building, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes, he's a versatile professional at the intersection of economics and data science and believes in leveraging the power of data to solve key developmental and policy challenges.
-
-</div>
+{: style="text-align: justify"}
 
 ---
 
@@ -117,8 +114,7 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 ---
 ## Explore the future with Ahmed
 
-<div align="justify"> Join Ahmed Raza on his journey of exploration, analysis, and innovation as he continues to shape the future of data-driven economics. Welcome to a world where data isn't just information; it's a catalyst for transformation. </div>
-
+Join Ahmed Raza on his journey of exploration, analysis, and innovation as he continues to shape the future of data-driven economics. Welcome to a world where data isn't just information; it's a catalyst for transformation.
 
 
 *Discover. Empower. Transform.*
