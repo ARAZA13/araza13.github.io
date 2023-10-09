@@ -8,8 +8,7 @@
 
 Ahmed is a structured thinker, economist & data scientist originally from Pakistan, now living in Canada. He currently serves as a consultant Economist for the Education Global Practice at the World Bank Group. His research interests lie where development and data meet. Ahmed's dedication to data-driven development has led him to affiliations with renowned institutions such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-HKS](https://epod.cid.harvard.edu/person/ahmed-raza), [CERP](https://www.cerp.org.pk), and [BSE](https://bse.eu).
 
-<div>
-
+</div>
 
 ---
 
