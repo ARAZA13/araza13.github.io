@@ -60,14 +60,14 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 
   - Spearheading data initiatives for creating analytical global public goods to support results-based programming of the global education sector.
   - Providing strategic and technical support for post-COVID education policy and data priorities in WBG client countries.
-  - Design & Analysis contribution(s) to WBG projects such as Learning Poverty, Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).
+  - Design & Analysis contribution(s) to WBG projects such as Learning Poverty, [Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).
 {: style="text-align: justify"}
 
 ### Project Manager @ CERP
 (_July 2018 - April 2019_)
 
 - **Key Contributions**
-- Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the LEAPS program.
+- Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://epod.cid.harvard.edu/initiative/leaps-program).
 
 - Conceptualized & deployed android applications LEAPS sample of  to measure young adults' cognitive and non-cognitive abilities. Analyzed incoming data to examine the linkages between education and labor market outcomes using psychometric analysis and item response theory (IRT) modeling of test scores.
 
