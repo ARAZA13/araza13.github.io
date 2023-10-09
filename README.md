@@ -57,33 +57,42 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 (_April 2019 - Present_)
 
 - **Key Contributions**
-  - Spearheading data initiatives for creating analytical global public goods to support results-based programming.{: style="text-align: justify"}
+  - Spearheading data initiatives for creating analytical global public goods to support results-based programming.
+    {: style="text-align: justify"}
 
-  - Providing strategic and technical support for post-COVID education policy and data priorities in WBG client countries.{: style="text-align: justify"}
+  - Providing strategic and technical support for post-COVID education policy and data priorities in WBG client countries.
+    {: style="text-align: justify"}
   - Contributions to projects such as Learning Poverty, Data Depot-Pakistan, Human Capital Review, and more.
-{: style="text-align: justify"}
+    {: style="text-align: justify"}
 
 ### Project Manager @ CERP
 (_July 2018 - April 2019_)
 
 - **Key Contributions**
-  - Orchestrated data collection, methodology, and analysis for a series of research projects and randomized controlled trials under the LEAPS program.{: style="text-align: justify"}
-  - In-depth investigation of Pakistan's education ecosystem with data collected from 112 villages, covering every aspect of the educational marketplace.{: style="text-align: justify"}
+  - Orchestrated data collection, methodology, and analysis for a series of research projects and randomized controlled trials under the LEAPS program.
+    {: style="text-align: justify"}
+  - In-depth investigation of Pakistan's education ecosystem with data collected from 112 villages, covering every aspect of the educational marketplace.
+    {: style="text-align: justify"}
 
 ### Senior Research Associate @ CERP
 (_June 2016 - July 2018_)
 
 - **Key Contributions**
-  - Contributed to research design aimed at removing credit constraints for low-cost private schools.{: style="text-align: justify"}
-  - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).{: style="text-align: justify"}
-  - Provided statistical and research support to optimize analysis for external data clients.{: style="text-align: justify"}
+  - Contributed to research design aimed at removing credit constraints for low-cost private schools.
+    {: style="text-align: justify"}
+  - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
+    {: style="text-align: justify"}
+  - Provided statistical and research support to optimize analysis for external data clients.
+    {: style="text-align: justify"}
 
 ### Research Associate @ CERP
 (_June 2014 - June 2016_)
 
 - **Key Contributions**
-  - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.{: style="text-align: justify"}
-  - Conducted data analysis and literature review for a published academic paper on [trust in state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf).{: style="text-align: justify"}
+  - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
+    {: style="text-align: justify"}
+  - Conducted data analysis and literature review for a published academic paper on [trust in state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf).
+    {: style="text-align: justify"}
 
 ---
 
@@ -91,26 +100,38 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 
 ### [Data - Depot Pakistan](https://datacatalog.worldbank.org/search/dataset/0038010/Data-Depot---Pakistan)
 
-- Empowering open access to standardized micro-data relevant to education in Pakistan.{: style="text-align: justify"}
-- Enhancing data usability for informed decision-making in the education sector.{: style="text-align: justify"}
-- Harmonizing key indicators on education from multiple data sources, including household surveys, government censuses, and administrative/monitoring datasets.{: style="text-align: justify"}
+- Empowering open access to standardized micro-data relevant to education in Pakistan.
+  {: style="text-align: justify"}
+- Enhancing data usability for informed decision-making in the education sector.
+  {: style="text-align: justify"}
+- Harmonizing key indicators on education from multiple data sources, including household surveys, government censuses, and administrative/monitoring datasets.
+  {: style="text-align: justify"}
 
 ### [Learning Poverty](https://thedocs.worldbank.org/en/doc/e52f55322528903b27f1b7e61238e416-0200022022/original/Learning-poverty-report-2022-06-21-final-V7-0-conferenceEdition.pdf)
 
-- The Learning Poverty indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading.{: style="text-align: justify"}
-- Focuses on both "more schooling" and "better learning" for a holistic perspective on education.{: style="text-align: justify"}
-- Utilizes data from the [Global Learning Assessment Database (GLAD)](https://github.com/worldbank/GLAD).{: style="text-align: justify"}
+- The Learning Poverty indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading.
+  {: style="text-align: justify"}
+- Focuses on both "more schooling" and "better learning" for a holistic perspective on education.
+  {: style="text-align: justify"}
+- Utilizes data from the [Global Learning Assessment Database (GLAD)](https://github.com/worldbank/GLAD).
+  {: style="text-align: justify"}
 
 
 ### [Pakistan – Human Capital Review: Building Capabilities Throughout Life](https://openknowledge.worldbank.org/entities/publication/8748b7a7-7345-4298-9631-3f5f146c7007)
 
-- Calls for a long-term commitment to building human capital throughout life.{: style="text-align: justify"}
+- Calls for a long-term commitment to building human capital throughout life.
+  {: style="text-align: justify"}
 - Advocates for intersectoral linkages and continuity of policies to enhance human capital in Pakistan.
+  {: style="text-align: justify"}
+
 
 ### [State Authority in Pakistan](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf)
 
 - Explores the determinants of trust in state institutions in Pakistan.
+  {: style="text-align: justify"}
 - Investigates whether positive engagement can revitalize a citizen's sense of trust in the state.
+  {: style="text-align: justify"}
+
 
 ---
 ## Explore the future with Ahmed
