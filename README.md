@@ -1,18 +1,18 @@
 
 
-# About Me: Ahmed - Economist & Data Scientist
+# Ahmed Raza - Consultant Economist & Data Scientist Extraordinaire
 
 Ahmed is a passionate economist and data scientist originally from Pakistan, now thriving in Canada. He currently serves as a Consultant Economist for the Education Global Practice at the prestigious World Bank Group. Ahmed's dedication to data-driven development has led him to affiliations with renowned institutions such as [EPOD-HKS](https://epod.cid.harvard.edu/person/ahmed-raza), [CERP](https://www.cerp.org.pk), and [BSE](https://bse.eu).
 
 ## Expertise
 
-Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. With experience in research management, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes, he's a versatile professional at the intersection of economics and data science.
+Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. With experience in research management, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes, he's a versatile professional at the intersection of economics and data science and believes in leveraging the power of data 
 
-## Proficient in:
+## Proficient in
 
 - **Statistical Tools**: Stata, R, E-Views
 - **Programming Languages**: Python, SQL
-- **Data Visualization**: Tableau, Stata, R(studio)
+- **Data Visualization**: Tableau
 - **Data Collection**: ODK, Survey Solutions
 - **Version Control**: Github
 - **Office Suites**: Microsoft Office
@@ -22,33 +22,34 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 - **MSc in Specialized Economic Analysis**
   - *Barcelona School of Economics*
   - Graduated: _Jun 2014_
-  - _(Evaluated by World Education Services (WES), as equivalent to a four-year Canadian bachelor’s degree)_
+  - _(Evaluated by World Education Services (WES), as equivalent to a Canadian master’s degree)_
 
 - **BSc (Honors) in Economics & Finance**
   - *Lahore School of Economics*
   - Graduated: _Jun 2013_
+  - _(Evaluated by World Education Services (WES), as equivalent to a 3-year Canadian bachelor’s degree)_
 
 ## Work Experience
 
 ### Consultant Economist @ World Bank Group
 (_April 2019 - Present_)
 
-- **Key Contributions**:
-  - Leading data initiatives for creating analytical global public goods.
+- **Key Contributions**
+  - Leading data initiatives for creating analytical global public goods to support results based programming.
   - Providing strategic and technical support to identify post-COVID education policy and data priorities.
   - Contributing to projects such as Learning Poverty, Data Depot Pakistan, and more.
 
 ### Project Manager @ CERP
 (_July 2018 - April 2019_)
 
-- **Key Contributions**:
-  - Managed data collection, methodology, and analysis for research projects under the LEAPS longitudinal study.
-  - Investigated Pakistan's education ecosystem with data collected from 112 villages.
+- **Key Contributions**
+  - Managed data collection, methodology, and analysis for a series of research projects and randmomized controlled trails, under the LEAPS program.
+  - Investigated Pakistan's education ecosystem with data collected from 112 villages on every aspect of the educational market place.
 
 ### Senior Research Associate @ CERP
 (_June 2014 - July 2018_)
 
-- **Key Contributions**:
+- **Key Contributions**
   - Contributed to research design for removing credit constraints for low-cost private schools.
   - Optimized statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
   - Provided statistical and research support to optimize analysis for external data clients.
@@ -58,7 +59,7 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 ### Data Depot Pakistan - World Bank Group
 - [Publication](https://datacatalog.worldbank.org/search/dataset/0038010/Data-Depot---Pakistan)
 
-- **Objective**:
+- **Objective**
   - Provided a platform for open access to standardized micro-data relevant to education in Pakistan.
   - Improved data use for decision-making on education in Pakistan.
   - Harmonized key variables on education from multiple data sources.
@@ -78,6 +79,13 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 
 - [State Authority in Pakistan](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf)
 
+
+
+## Explore the Future with Ahmed:
+
+Join Ahmed  on his journey of exploration, analysis, and innovation as he continues to shape the future of data-driven economics. Welcome to a world where data isn't just information; it's a catalyst for transformation.
+
+*Discover. Empower. Transform.*
 
 
 
