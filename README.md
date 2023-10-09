@@ -129,7 +129,6 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 
 
 - Monitored, evaluated, and conducted field experiments and behavioral lab games to assess the logic behind citizens’ interaction with state resources in both urban and rural settings.
-- 
 - This paper explores the determinants of trust in state institutions in Pakistan by investigating whether positive engagement can revitalize a citizen's sense of trust in the state.
 {: style="text-align: justify"}
 
