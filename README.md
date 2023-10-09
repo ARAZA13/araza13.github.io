@@ -101,7 +101,7 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 {: style="text-align: justify"}
 
 
-### [Learning Poverty - 2022 Update](https://thedocs.worldbank.org/en/doc/e52f55322528903b27f1b7e61238e416-0200022022/original/Learning-poverty-report-2022-06-21-final-V7-0-conferenceEdition.pdf)
+### [Learning Poverty - 2022 Global Update](https://thedocs.worldbank.org/en/doc/e52f55322528903b27f1b7e61238e416-0200022022/original/Learning-poverty-report-2022-06-21-final-V7-0-conferenceEdition.pdf)
 
 - The [Learning Poverty](https://www.worldbank.org/en/topic/education/brief/what-is-learning-poverty) indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading.
 - Focuses on both "more schooling" and "better learning" for a holistic perspective on education.
