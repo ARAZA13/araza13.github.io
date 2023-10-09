@@ -60,6 +60,7 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
   - Spearheading data initiatives for creating analytical global public goods to support results-based programming.
   - Providing strategic and technical support for post-COVID education policy and data priorities in WBG client countries.
   - Contributions to projects such as Learning Poverty, Data Depot-Pakistan, Human Capital Review, and more.
+{: style="text-align: justify"}
 
 ### Project Manager @ CERP
 (_July 2018 - April 2019_)
@@ -67,6 +68,7 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 - **Key Contributions**
   - Orchestrated data collection, methodology, and analysis for a series of research projects and randomized controlled trials under the LEAPS program.
   - In-depth investigation of Pakistan's education ecosystem with data collected from 112 villages, covering every aspect of the educational marketplace.
+{: style="text-align: justify"}
 
 ### Senior Research Associate @ CERP
 (_June 2016 - July 2018_)
@@ -75,6 +77,7 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
   - Contributed to research design aimed at removing credit constraints for low-cost private schools.
   - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
   - Provided statistical and research support to optimize analysis for external data clients.
+{: style="text-align: justify"}
 
 ### Research Associate @ CERP
 (_June 2014 - June 2016_)
@@ -82,6 +85,7 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 - **Key Contributions**
   - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
   - Conducted data analysis and literature review for a published academic paper on [trust in state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf).
+{: style="text-align: justify"}
 
 
 ---
