@@ -1,11 +1,11 @@
-# Ahmed Raza -  Consultant Economist & Data Scientist
+
+
+
+# Ahmed Raza - Consultant Economist & Data Scientist
 
 <div style="text-align: justify;">
 
-## Unveiling the World of Ahmed Raza: Economist & Data Visionary
-
 Ahmed is a free thinker, economist & data scientist originally from Pakistan, now living in Canada. He currently serves as a consultant Economist for the Education Global Practice at the World Bank Group. His research interests lie where development and data meet. Ahmed's dedication to data-driven development has led him to affiliations with renowned institutions such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-HKS](https://epod.cid.harvard.edu/person/ahmed-raza), [CERP](https://www.cerp.org.pk), and [BSE](https://bse.eu). 
-
 
 ## Meet Ahmed Raza
 
@@ -14,19 +14,19 @@ Ahmed is a free thinker, economist & data scientist originally from Pakistan, no
 [Instagram]()
 [Skype]()
 
-
 ## Expertise:
 
 Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. With experience in research management, team building, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes, he's a versatile professional at the intersection of economics and data science and believes in leveraging the power of data to solve key developmental and policy challenges. 
 
-## Proficiency in Action
+## Proficienct in:
+
 - **Statistical Analysis**: Stata, R, E-Views
 - **Programming Languages**: Python, SQL
 - **Data Visualization**: Tableau, Stata, R
 - **Data Collection**: ODK, Survey Solutions
 - **Version Control**: Github
 - **Office Suites**: Microsoft Office
-- **Artifical Intelligence** Chat GPT, Midjourney, & many more
+- **Artificial Intelligence**: Chat GPT, Midjourney, & many more
 
 ## Education
 
@@ -48,7 +48,7 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 - **Key Contributions**
   - Spearheading data initiatives for creating analytical global public goods to support results-based programming.
   - Providing strategic and technical support for post-COVID education policy and data priorities in WBG client countries.
-  - Contributions to projects such as Learning Poverty, Data Depot-Pakistan, Human Capital Reveiw and more.
+  - Contributions to projects such as Learning Poverty, Data Depot-Pakistan, Human Capital Review, and more.
 
 ### Project Manager @ CERP
 (_July 2018 - April 2019_)
@@ -71,8 +71,6 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 - **Key Contributions**
   - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
   - Conducted data analysis and literature review for a published academic paper on [trust in state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf).
-
-
 
 ## Projects & Publications:
 
@@ -104,30 +102,20 @@ Join Ahmed Raza on his journey of exploration, analysis, and innovation as he co
 
 *Discover. Empower. Transform.*
 
-
 ## Talks & Lectures
 
 - **YouTube**: [Coming Soon]()
 - **Spotify**: [Coming Soon]()
 
+## Other Interests
 
-### Other Interests
 - Music (Composing and Writing)
 - Guitar: Electric and Acoustic
-- Percussion instruments: Drums, Dhol,& Tabla
+- Percussion instruments: Drums, Dhol, & Tabla
 - Skateboarding & Snowboarding 
 - Freestyle Football
 - Squash
 - Table Tennis
-- Traveling
-- Chess
-
-
-</div>
-
-
-
-
 
 
 
