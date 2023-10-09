@@ -1,18 +1,9 @@
 # Ahmed Raza 
 
-
-
 ---
   
 ## Bio:
-
- <div align="justify"> Ahmed is a structured thinker, economist & data scientist originally from Pakistan, now living in Canada. He currently serves as a consultant Economist for the Education Global Practice at the World Bank Group. His research interests lie where development and data meet. Ahmed's dedication to data-driven development has led him to affiliations with renowned institutions such as: </div>
-
- 
-- [World Bank Group](https://www.worldbank.org/en/home),
-- [EPOD-HKS](https://epod.cid.harvard.edu/person/ahmed-raza),
-- [CERP](https://www.cerp.org.pk), &
-- [BSE](https://bse.eu).
+Ahmed is a structured thinker, economist & data scientist originally from Pakistan, now living in Canada. He currently serves as a consultant Economist for the Education Global Practice at the World Bank Group. His research interests lie where development and data meet. Ahmed's dedication to data-driven development has led him to affiliations with renowned institutions such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-HKS](https://epod.cid.harvard.edu/person/ahmed-raza), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
 
 ---
 
@@ -27,7 +18,11 @@
 
 ## Expertise:
 
-<div align="justify"> Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. With experience in research management, team building, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes, he's a versatile professional at the intersection of economics and data science and believes in leveraging the power of data to solve key developmental and policy challenges. </div>
+<div align="justify"> 
+
+Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. With experience in research management, team building, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes, he's a versatile professional at the intersection of economics and data science and believes in leveraging the power of data to solve key developmental and policy challenges.
+
+</div>
 
 ---
 
