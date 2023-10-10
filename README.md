@@ -46,14 +46,14 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
   - *Barcelona School of Economics*
   - Graduated: _June 2014_
     
-(Evaluated by <span style="font-size: smaller;">World Education Services (WES), as equivalent to a Canadian master's degree</span>)
+(<span style="font-size: smaller;">Evaluated by World Education Services (WES), as equivalent to a Canadian master's degree</span>)
 
 - **BSc (Honors) in Economics & Finance**
 
   - *Lahore School of Economics*
   - Graduated: _June 2013_
 
-(Evaluated by <span style="font-size: smaller;">World Education Services (WES), as equivalent to a 3-year Canadian bachelor’s degree</span>)
+(<span style="font-size: smaller;">Evaluated by World Education Services (WES), as equivalent to a 3-year Canadian bachelor’s degree</span>)
 
 ---
 
