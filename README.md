@@ -57,9 +57,12 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 (_April 2019 - Present_)
 
 - **Key Contributions**
-
   - Spearheading data initiatives for creating analytical global public goods to support results-based programming of the global education sector.
+
+
   - Providing strategic and technical support for post-COVID education policy and data priorities in WBG client countries.
+
+
   - Design & Analysis contribution(s) to WBG projects such as Learning Poverty, [Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).
 {: style="text-align: justify"}
 
@@ -79,7 +82,10 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 
 - **Key Contributions**
   - Contributed to research design & implementation aimed at removing credit constraints for low-cost private schools.
+
   - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
+
+
   - Provided statistical and research support to research staff and external data clients, including banks and private sector firms, to optimize analysis, conduct data diagnostics and embed data in decisions related to operations in order to increase efficiency, outreach, impact, & profits. 
 {: style="text-align: justify"}
 
@@ -88,7 +94,10 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 
 - **Key Contributions**
   - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
-  - Supported fieldwork, data cleaning, analysis and literature review for a published academic paper on [trust in state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf).
+
+
+  - Supported fieldwork, data cleaning, analysis and literature review for a published academic paper on [trust in 
+state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf).
 {: style="text-align: justify"}
 
 ---
@@ -96,7 +105,9 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 ## Recent Projects & Publications:
 
 ### [Global Education Policy Dashboard - (GEPD)](https://www.educationpolicydashboard.org)
+
 - Guiding the implementation and  analysis of the GEPD in Pakistan.
+
 - This projects combines several data iniatives at the Education Global Practice to give a detailed systematic overview of education sector and offers a strong basis for identifying priorities for investment and policy reforms that are suited to each country context.
 {: style="text-align: justify"}
 
@@ -104,15 +115,19 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 ### [Learning Poverty - 2022 Global Update](https://thedocs.worldbank.org/en/doc/e52f55322528903b27f1b7e61238e416-0200022022/original/Learning-poverty-report-2022-06-21-final-V7-0-conferenceEdition.pdf)
 
 - The [Learning Poverty](https://www.worldbank.org/en/topic/education/brief/what-is-learning-poverty) indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading.
+
 - Focuses on both "more schooling" and "better learning" for a holistic perspective on education.
+
 - Utilizes data from the [Global Learning Assessment Database (GLAD)](https://github.com/worldbank/GLAD).
+
 - Three complementary concepts: Learning poverty level, gap, and severity.
+
 - This report informs Post-COVID education policy priorities and urges stakeholders for joint action.
 {: style="text-align: justify"}
 
 ### [Pakistan – Human Capital Review: Building Capabilities Throughout Life](https://openknowledge.worldbank.org/entities/publication/8748b7a7-7345-4298-9631-3f5f146c7007)
 
-- Contributed to the production analysis, data visualizations and write-up of the Human Capital Review. 
+- Contributed to the production: analysis, data visualizations and write-up of the Human Capital Review. 
 - This report calls for a long-term commitment to building human capital throughout life and advocates for intersectoral linkages and continuity of policies to enhance human capital in Pakistan.
 {: style="text-align: justify"}
 
@@ -120,7 +135,10 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 ### [Data - Depot Pakistan](https://datacatalog.worldbank.org/search/dataset/0038010/Data-Depot---Pakistan) 
 
 - Devised & implemented a systematic & scaleable data cleaning, harmonization, and analysis strategy for the assembly and aggregation of 100+ complex micro-datasets from multiple data sources like household surveys, government censuses, and administrative/monitoring datasets. All applicable code behind this initiative is open-source and available on [GitHub](https://github.com/worldbank/Data_Depot_Education_Pakistan).
+
+
 - Calulated standardized key indicators on education with open access to standardized micro-datasets by developing a scalable platform using r(shiny) app for proactive tracking of indicators and open access standardized micro-data.
+
 - Added value in the data landscape by creating public data good for informed decision-making in the education sector. 
 {: style="text-align: justify"}
 
@@ -129,6 +147,8 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 
 
 - Monitored, evaluated, and conducted field experiments and behavioral lab games to assess the logic behind citizens’ interaction with state resources in both urban and rural settings.
+
+
 - This paper explores the determinants of trust in state institutions in Pakistan by investigating whether positive engagement can revitalize a citizen's sense of trust in the state.
 {: style="text-align: justify"}
 
