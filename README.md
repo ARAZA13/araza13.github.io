@@ -22,7 +22,7 @@ Ahmed is a structured thinker, economist & data scientist originally from Pakist
 
 ## Expertise:
 
-Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. He is a trained researcher with proven expertise in research management, team building, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key developmental and policy challenges.
+Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. He is a trained researcher with proven expertise in research management, design thinking, team building, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key developmental and policy challenges.
 {: style="text-align: justify"}
 
 ---
@@ -115,7 +115,7 @@ state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-file
 
   - Three complementary concepts: Learning poverty level, gap, and severity.
   
-  - This report informs Post-COVID education policy priorities and urges stakeholders for joint action.
+  - This flagship report informs Post-COVID education policy priorities and urges stakeholders for joint action.
 {: style="text-align: justify"}
 
 ### [Pakistan – Human Capital Review: Building Capabilities Throughout Life](https://openknowledge.worldbank.org/entities/publication/8748b7a7-7345-4298-9631-3f5f146c7007)
