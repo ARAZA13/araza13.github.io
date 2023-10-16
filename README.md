@@ -56,8 +56,7 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
 
   - Providing strategic and technical support for post-COVID education policy and data priorities in WBG client countries.
 
-  - Design & Analysis contribution(s) to flagship WBG projects in global and country context. (Project(s): Learning Poverty, Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).
-    
+  - Design & Analysis contribution(s) to flagship WBG projects in global and country context. (Project(s): Learning Poverty, Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).    
 {: style="text-align: justify"}
 
 ### Project Manager @ CERP
