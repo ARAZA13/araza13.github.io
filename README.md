@@ -11,7 +11,7 @@ Ahmed is a structured thinker, economist & data scientist, born in Pakistan, edu
 
 ---
 
-## Socials - Meet Ahmed:
+## Digital Social Plaform(s):
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ar1313ar)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-lightblue)](https://twitter.com/AhmedRaza_13)
@@ -22,7 +22,7 @@ Ahmed is a structured thinker, economist & data scientist, born in Pakistan, edu
 
 ## Expertise:
 
-Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. He is a trained researcher with proven expertise in research management, design thinking, team building, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key developmental and policy challenges.
+Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. He is a trained researcher with proven expertise in research management, design thinking, team building, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes and markets. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key developmental, policy, and business challenges.
 {: style="text-align: justify"}
 
 ---
