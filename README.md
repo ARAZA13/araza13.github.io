@@ -94,7 +94,7 @@ state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-file
 
 ---
 
-## Recent Projects & Publications:
+## Recent Project(s) & Publication(s):
 
 ### [Global Education Policy Dashboard - (GEPD)](https://www.educationpolicydashboard.org)
 
@@ -141,7 +141,7 @@ state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-file
 
 ---
 
-## Explore the future with Ahmed
+## Explore the future:
 
 Join Ahmed on his journey of exploration, analysis, and innovation as he continues to shape the future of data-driven economics. Welcome to a world where data isn't just information; it's a catalyst for transformation.
 {: style="text-align: justify"}
@@ -151,7 +151,7 @@ Join Ahmed on his journey of exploration, analysis, and innovation as he continu
 
 ---
 
-## Talks & Lectures
+## Talks & Lectures:
 
 - **YouTube**: [Coming Soon]()
 - **Spotify**: [Coming Soon]()
@@ -163,20 +163,19 @@ Join Ahmed on his journey of exploration, analysis, and innovation as he continu
 - **Statistical Analysis**: Stata, R, E-Views
 - **Programming Languages**: Python, SQL
 - **Data Visualization**: Tableau, Stata, R
-- **Data Collection**: ODK, Survey Solutions
+- **Data Collection**: ODK, Survey CTO, Survey Solutions
 - **Version Control**: Github
 - **Office Suites**: Microsoft Office
 - **Artificial Intelligence**: Chat GPT, Midjourney, & many more
 
 ---
 
-## Other Interests
+## Other Interest(s):
 
-- Music (Composing and Writing)
-- Guitar: Electric and Acoustic
-- Percussion instruments: Drums, Dhol, & Tabla
-- Skateboarding & Snowboarding 
-- Freestyle Football
-- Squash
-- Table Tennis
+- Music: Composing, Writing, Guitar & Percussion instruments 🎵
+- Skateboarding & Snowboarding 🛹❄️
+- Freestyle Football ⚽
+- Squash 🥎
+- Table Tennis 🏓
+
 
