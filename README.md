@@ -172,10 +172,10 @@ Join Ahmed on his journey of exploration, analysis, and innovation as he continu
 
 ## Other Interest(s):
 
-- Music: Composing, Writing, Guitar & Percussion instruments 🎵
-- Skateboarding & Snowboarding 🛹❄️
-- Freestyle Football ⚽
-- Squash 🥎
-- Table Tennis 🏓
+- Music: Composing, writing, guitar & percussion instruments :musical_note:
+- Skateboarding & Snowboarding :skateboard::snowboard:
+- Freestyle Football :soccer:
+- Squash :softball:
+- Table Tennis :table_tennis:
 
 
