@@ -91,6 +91,8 @@ Ahmed's skill set combines advanced econometric analysis, design thinking, and p
   
   - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
 
+  - Acted as the primary point of contact to manage and build relationships with diverse stakeholders and field partners:  civil servants, police, judiciary, survey & tech companies.
+
   - Supported fieldwork, data cleaning, analysis and literature review for a published academic paper on [trust in 
 state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf).
 {: style="text-align: justify"}
