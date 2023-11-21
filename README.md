@@ -25,7 +25,7 @@ Ahmed is a structured thinker, trained in economics, finance, data science & tec
 
 ## Expertise:
 
-Ahmed's skill set combines advanced econometric analysis, design thinking, and policy analysis. He is a trained researcher with proven expertise in research management, design thinking, team building, pattern recognition, content creation, artificial intelligence, and navigating complex data landscapes and markets. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key developmental, policy, and business challenges.
+Ahmed's skill set combines econometric analysis with data governance & design thinking. He is a trained researcher with proven expertise in creating technical content, research management, team building, pattern recognition, artificial intelligence, and navigating complex data landscapes and markets. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key developmental, policy, and business challenges.
 {: style="text-align: justify"}
 
 ---
