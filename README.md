@@ -65,7 +65,7 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 
 - **Key Contributions**
 
-  - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://epod.cid.harvard.edu/initiative/leaps-program/).
+  - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
 
   - Conceptualized & deployed android applications LEAPS sample of  to measure young adults' cognitive and non-cognitive abilities. Analyzed incoming data to examine the linkages between education and labor market outcomes using psychometric analysis and item response theory (IRT) modeling of test scores.
 
