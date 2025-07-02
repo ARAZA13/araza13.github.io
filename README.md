@@ -19,7 +19,6 @@ Ahmed is a structured thinker, trained in economics, finance, data science & tec
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ar1313ar)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-lightblue)](https://twitter.com/AhmedRaza_13)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/ahm3d_13/)
-[![Skype](https://img.shields.io/badge/Skype-Contact-green)](skype:ahm3d.13)
 
 ---
 
@@ -103,9 +102,11 @@ state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-file
 
 ### [Global Education Policy Dashboard - (GEPD)](https://www.educationpolicydashboard.org)
 
-  - Guiding the implementation and  analysis of the GEPD in Pakistan.
+  - Guiding the methodology, implementation, &  analysis of the Global Education Policy Dashboard in Pakistan.
 
-  - This projects combines several data iniatives at the Education Global Practice to give a detailed systematic overview of education sector and offers a strong basis for identifying priorities for investment and policy reforms that are suited to each country context.
+  - This project combines several data iniatives at the Education Global Practice to give a detailed systematic overview of education sector and offers a strong basis for identifying priorities for investment and policy reforms that are suited to  country-specific context.
+
+
 {: style="text-align: justify"}
 
 ### [Learning Poverty - 2022 Global Update](https://thedocs.worldbank.org/en/doc/e52f55322528903b27f1b7e61238e416-0200022022/original/Learning-poverty-report-2022-06-21-final-V7-0-conferenceEdition.pdf)
@@ -158,7 +159,9 @@ Join Ahmed on his journey of exploration, analysis, and innovation as he continu
 
 ## Talks & Lectures:
 
-- **YouTube**: [Coming Soon]()
+- **YouTube**:
+ [Learning Poverty](https://www.youtube.com/watch?v=T15u9ZiPwvU)
+ 
 - **Spotify**: [Coming Soon]()
 
 ---
@@ -166,12 +169,12 @@ Join Ahmed on his journey of exploration, analysis, and innovation as he continu
 ## Proficienct in software(s):
 
 - **Statistical Analysis**: Stata, R, E-Views
-- **Programming Languages**: Python, SQL
-- **Data Visualization**: Tableau, Stata, R
+- **Scripting & Data Querying Languages**: Python, SQL, Cypher
+- **Data Visualization**: Tableau, Power BI
 - **Data Collection**: ODK, Survey CTO, Survey Solutions
-- **Version Control**: Github
+- **Version Control**: Github, Visual Studio Code
 - **Office Suites**: Microsoft Office
-- **Artificial Intelligence**: Chat GPT, Midjourney, & many more
+- **Artificial Intelligence**: OpenAI playground, Grok, DeepSeek, Claude, Gemini, Dall-E, Copilot, Jasper,  Midjourney, & others.
 
 ---
 
