@@ -170,7 +170,7 @@ Join Ahmed on his journey of exploration, analysis, and innovation as he continu
 
 - **Statistical Analysis**: Stata, R, E-Views
 - **Scripting & Data Querying Languages**: Python, SQL, Cypher
-- **Data Visualization**: Tableau, Power BI
+- **Data Visualization**: Tableau, Power BI, Neo4j
 - **Data Collection**: ODK, Survey CTO, Survey Solutions
 - **Version Control**: Github, Visual Studio Code
 - **Office Suites**: Microsoft Office
@@ -182,7 +182,7 @@ Join Ahmed on his journey of exploration, analysis, and innovation as he continu
 
 - Traveling
 - Music
-- Skateboarding & Snowboarding 
+- Longboarding & Snowboarding 
 - Freestyle Football 
 - Squash 
 - Table Tennis
