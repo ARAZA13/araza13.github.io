@@ -55,12 +55,10 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 
   - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
   
-  - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies & the home department of Pakistan for deployment of the latest round, which tracked & surveyed 1,000,000+ students in the LEAPS sample, to create a one of a kind panel dataset on education and its demographic dividend. 
+  - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies & the home department of Pakistan for deployment of the latest round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
 
   - Conceptualized & deployed android applications LEAPS sample of  to measure young adults' cognitive and non-cognitive abilities. Analyzed incoming data to examine the linkages between education and labor market outcomes using psychometric analysis and item response theory (IRT) modeling of test scores.
 
-  - Assisted in conducting an in-depth investigation of Pakistan's education ecosystem with data collected from 112 villages, covering every aspect of the educational marketplace.
-  
     
 {: style="text-align: justify"}
 
