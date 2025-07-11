@@ -5,7 +5,7 @@
 ## Bio:
 
 
-Ahmed is a structured thinker, trained in economics, finance, data science & technology. He currently works as an economist (consultant) with Education Global Practice @ [World Bank Group](https://www.worldbank.org/en/home), where he dives into the complexities of global economic issues and pressing human development challenges. His research interests lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu/person/ahmed-raza), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu). 
+Ahmed is a structured thinker, trained in economics, finance, data science & technology. He currently works as an economist (consultant) with Education Global Practice @ [World Bank Group](https://www.worldbank.org/en/home), where he dives into the complexities of global economic issues and pressing human development challenges. His research interests lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu). 
 {: style="text-align: justify"}
 
 🇵🇰 ||  🇪🇸 || 🇨🇦 || 🇺🇸 || 
@@ -25,6 +25,15 @@ Ahmed is a structured thinker, trained in economics, finance, data science & tec
 ## Expertise:
 
 Ahmed's skill set combines econometric analysis with data governance & design thinking. He is a trained researcher with proven expertise in creating technical content, research management, team building, pattern recognition, artificial intelligence, and navigating complex data landscapes and markets. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key developmental, policy, and business challenges.
+{: style="text-align: justify"}
+
+---
+
+## Research Interests:
+
+ Applied Econometrics , Financial Economics, International Trade, Education , ESG , Human Capital, Technology Policy & Ariticial Intelligence
+
+
 {: style="text-align: justify"}
 
 ---
@@ -101,7 +110,7 @@ state institutions](https://khwaja.scholars.harvard.edu/sites/g/files/omnuum3221
 
 ## Education
 
-  - **Degree:** MSc in Specialized Economic Analysis
+  - **Degree:** MSc in Specialized Economic Analysis with a concentration on International Trade, Economics and Development Economics
   - **Institution:** Barcelona School of Economics
   - **Graduation Date:** _June 2014_ 
     
