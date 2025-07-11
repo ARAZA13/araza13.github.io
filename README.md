@@ -46,14 +46,13 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 
 - **Key Contributions**
 
-  - Spearheading data initiatives for creating analytical global public goods to support results-based programming of the global education sector by capacity building.
+  - Spearheaded data initiatives for creating analytical global public goods to support results-based programming of the global education sector by capacity building.
 
-  - Providing strategic and technical support to the Education Global Practice by conducting advanced econometric analysis, developing data pipelines in line with data priorities, and calculating global indicators related to education & human capital.
+  - Provided strategic and technical support by developing data pipelines in line with data priorities, harmonizing data , conducting advanced econometric analysis and calculating global indicators related to education & human capital.
 
   - Designed and implemented robust M&E systems to support technical design and methodology for different projects.
 
-  - Design & Analysis contribution(s) to flagship WBG project(s) and Report(s) including but not limited to  Learning Poverty, World Development Indicators,  Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).    
-
+  - Contributed to flagship WBG project(s) and report(s) including but not limited to:  Learning Poverty, World Development Indicators,  Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).    
 
 {: style="text-align: justify"}
 
