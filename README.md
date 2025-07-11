@@ -31,7 +31,7 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 
 ## Research Interests:
 
- Applied Econometrics , Financial Economics, International Trade, Education , ESG , Human Capital, Technology Policy & Ariticial Intelligence
+ Evidence-based policy making, Applied Econometrics , Financial Economics, International Trade, Education , ESG , Human Capital, Technology Policy & Ariticial Intelligence
 
 
 {: style="text-align: justify"}
