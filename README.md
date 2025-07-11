@@ -48,10 +48,12 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 
   - Spearheaded data initiatives for creating analytical global public goods to support results-based programming of the global education sector by capacity building.
 
-  - Provided strategic and technical support by developing data pipelines in line with data priorities, harmonizing data , conducting advanced econometric analysis and calculating global indicators related to education & human capital.
+  - Provided strategic and technical support by developing data pipelines in line with data priorities, harmonizing data , actively contributing to analysis and calculation of global development indicator(s) related to education & human capital.
 
-  - Designed and implemented robust M&E systems to support technical design and methodology for different projects.
+  - Designed and implemented robust M&E systems to support technical design and methodology for different projects on ESG & Human Capital
 
+  - Developed and implemented innovative econometric models to evaluate the impact of policies and interventions on economic growth, fostering evidence-based decision-making and supporting effective policy formulation.
+  
   - Contributed to flagship WBG project(s) and report(s) including but not limited to:  Learning Poverty, World Development Indicators,  Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).    
 
 {: style="text-align: justify"}
@@ -65,9 +67,10 @@ Ahmed's skill set combines econometric analysis with data governance & design th
   
   - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies & the home department of Pakistan for deployment of the latest round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
 
-  - Conceptualized & deployed android applications LEAPS sample of  to measure young adults' cognitive and non-cognitive abilities. Analyzed incoming data to examine the linkages between education and labor market outcomes using psychometric analysis and item response theory (IRT) modeling of test scores.
+ - Conceptualized & deployed LEAPS instrument for data collection which included android applications to measure young adults' cognitive and non-cognitive abilities. 
 
-    
+ - Analyzed incoming data to examine the linkages between education and labor market outcomes using psychometric analysis and item response theory (IRT) modeling of test scores.
+
 {: style="text-align: justify"}
 
 ### Senior Research Associate @ CERP
@@ -79,7 +82,11 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 
   - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
 
-  - Conducted thorough design audits for different research project(s) and conducted code audit(s) in data querying & scripting language(s). 
+  - Conducted thorough design audits for different research project(s) and conducted code audit(s) in data querying & scripting language(s).
+
+  - Analyzed a range processed data by applying advanced statistical techniques such as multivariate predictive modeling, survival analysis, principal component analysis (PCA), geo-spatial analysis, and time-series analysis.
+   
+  - Collaborated with cross-functional teams to design and execute impact assessments, education support services and microfinance loans for low cost private schools, providing valuable insights and optimized resource allocation under tight budgetary constraints.
 
   - Provided statistical and research support to research staff and external data clients, including banks and private sector firms, to optimize analysis, conduct data diagnostics and embed data in decisions related to operations in order to increase efficiency, outreach, impact, & profits.
     
@@ -101,8 +108,9 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 
   - Acted as the primary point of contact to manage and build relationships with diverse stakeholders and field partners:  civil servants, police, judiciary, survey & leading tech-firms in Pakistan.
 
-  - Supported fieldwork, data cleaning, analysis and literature review for a published academic paper on [trust in 
+  - Acted as a primary focal point for fieldwork, instrument design,data cleaning, analysis and literature review for the published academic paper on [trust in 
 state institutions](https://khwaja.scholars.harvard.edu/sites/g/files/omnuum3221/files/%5Bvsite%3Asite-purl%5D/files/trust_state_20191026_final.pdf).
+
 {: style="text-align: justify"}
 
 ---
