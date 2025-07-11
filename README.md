@@ -29,6 +29,78 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 
 ---
 
+
+## Work Experience
+
+### Consultant Economist / Data Scientist @ World Bank Group(WBG)
+(_April 2019 - June 2025_)
+
+- **Key Contributions**
+
+  - Spearheading data initiatives for creating analytical global public goods to support results-based programming of the global education sector by capacity building.
+
+  - Providing strategic and technical support to the Education Global Practice by conducting advanced econometric analysis, developing data pipelines in line with data priorities, and calculating global indicators related to education & human capital.
+
+  - Designed and implemented robust M&E systems to support technical design and methodology for different projects.
+
+  - Design & Analysis contribution(s) to flagship WBG project(s) and Report(s) including but not limited to  Learning Poverty, World Development Indicators,  Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).    
+
+
+{: style="text-align: justify"}
+
+### Project Manager @ CERP
+(_July 2018 - April 2019_)
+
+- **Key Contribution(s)**
+
+  - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
+  
+  - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies & the home department of Pakistan for deployment of the latest round, which tracked & surveyed 1,000,000+ students in the LEAPS sample, to create a one of a kind panel dataset on education and its demographic dividend. 
+
+  - Conceptualized & deployed android applications LEAPS sample of  to measure young adults' cognitive and non-cognitive abilities. Analyzed incoming data to examine the linkages between education and labor market outcomes using psychometric analysis and item response theory (IRT) modeling of test scores.
+
+  - Assisted in conducting an in-depth investigation of Pakistan's education ecosystem with data collected from 112 villages, covering every aspect of the educational marketplace.
+  
+    
+{: style="text-align: justify"}
+
+### Senior Research Associate @ CERP
+(_June 2016 - July 2018_)
+
+- **Key Contribution(s)**
+
+  - Contributed to research design & implementation aimed at removing credit constraints for low-cost private schools.
+
+  - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
+
+  - Conducted thorough design audits for different research project(s) and conducted code audit(s) in data querying & scripting language(s). 
+
+  - Provided statistical and research support to research staff and external data clients, including banks and private sector firms, to optimize analysis, conduct data diagnostics and embed data in decisions related to operations in order to increase efficiency, outreach, impact, & profits.
+    
+{: style="text-align: justify"}
+
+### Teaching Fellow - Rethinking [Financial Inclusion](https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20Files/RFI_Brochure.pdf) @ Harvard Kennedy School
+(_April 2016 - April 2016_)
+
+- **Key Contribution(s)**
+
+-  Based on my work at CERP, I was invited to be a teaching fellow for an executive course at the [Kennedy School](https://www.hks.harvard.edu), where I taught the smart design for policy design & practice to an eclectic mix of senior regulators & practitioners , engaging them on cutting-edge frameworks and methodologies in micro-finance and behavioral economics. 
+
+### Research Associate @ CERP
+(_June 2014 - June 2016_)
+
+- **Key Contribution(s)**
+  
+  - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
+
+  - Acted as the primary point of contact to manage and build relationships with diverse stakeholders and field partners:  civil servants, police, judiciary, survey & leading tech-firms in Pakistan.
+
+  - Supported fieldwork, data cleaning, analysis and literature review for a published academic paper on [trust in 
+state institutions](https://khwaja.scholars.harvard.edu/sites/g/files/omnuum3221/files/%5Bvsite%3Asite-purl%5D/files/trust_state_20191026_final.pdf).
+{: style="text-align: justify"}
+
+---
+
 ## Education
 
   - **Degree:** MSc in Specialized Economic Analysis
@@ -42,59 +114,6 @@ Ahmed's skill set combines econometric analysis with data governance & design th
   - **Graduation Date:** _June 2013_
 
 (<span style="font-size: smaller;">Evaluated by World Education Services (WES), as equivalent to a Canadian bachelor’s degree</span>)
-
----
-
-## Work Experience
-
-### Consultant Economist @ World Bank Group(WBG)
-(_April 2019 - Present_)
-
-- **Key Contributions**
-
-  - Spearheading data initiatives for creating analytical global public goods to support results-based programming of the global education sector.
-
-  - Providing strategic and technical support for post-COVID education policy and data priorities in WBG client countries.
-
-  - Design & Analysis contribution(s) to flagship WBG projects in global and country context. (Project(s): Learning Poverty, Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).    
-{: style="text-align: justify"}
-
-### Project Manager @ CERP
-(_July 2018 - April 2019_)
-
-- **Key Contributions**
-
-  - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
-
-  - Conceptualized & deployed android applications LEAPS sample of  to measure young adults' cognitive and non-cognitive abilities. Analyzed incoming data to examine the linkages between education and labor market outcomes using psychometric analysis and item response theory (IRT) modeling of test scores.
-
-  - Assisted in conducting an in-depth investigation of Pakistan's education ecosystem with data collected from 112 villages, covering every aspect of the educational marketplace.
-{: style="text-align: justify"}
-
-### Senior Research Associate @ CERP
-(_June 2016 - July 2018_)
-
-- **Key Contributions**
-
-  - Contributed to research design & implementation aimed at removing credit constraints for low-cost private schools.
-
-  - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
-
-  - Provided statistical and research support to research staff and external data clients, including banks and private sector firms, to optimize analysis, conduct data diagnostics and embed data in decisions related to operations in order to increase efficiency, outreach, impact, & profits. 
-{: style="text-align: justify"}
-
-### Research Associate @ CERP
-(_June 2014 - June 2016_)
-
-- **Key Contributions**
-  
-  - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
-
-  - Acted as the primary point of contact to manage and build relationships with diverse stakeholders and field partners:  civil servants, police, judiciary, survey & tech companies.
-
-  - Supported fieldwork, data cleaning, analysis and literature review for a published academic paper on [trust in 
-state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf).
-{: style="text-align: justify"}
 
 ---
 
@@ -138,31 +157,12 @@ state institutions](https://epod.cid.harvard.edu/sites/default/files/inline-file
   - Added value in the data landscape by creating public data good for informed decision-making in the education sector. 
 {: style="text-align: justify"}
 
-### [State Authority in Pakistan](https://epod.cid.harvard.edu/sites/default/files/inline-files/trust_state_20191026_final_0.pdf)
+### [State Authority in Pakistan](https://www.cerp.org.pk/state-authority-project/)
 
   - Monitored, evaluated, and conducted field experiments and behavioral lab games to assess the logic behind citizens’ interaction with state resources in both urban and rural settings.
 
   - This paper explores the determinants of trust in state institutions in Pakistan by investigating whether positive engagement can revitalize a citizen's sense of trust in the state.
 {: style="text-align: justify"}
-
----
-
-## Explore the future:
-
-Join Ahmed on his journey of exploration, analysis, and innovation as he continues to shape the future of data-driven economics. Welcome to a world where data isn't just information; it's a catalyst for transformation.
-{: style="text-align: justify"}
-
-
-*Discover. Empower. Transform.*
-
----
-
-## Talks & Lectures:
-
-- **YouTube**:
- [Learning Poverty](https://www.youtube.com/watch?v=T15u9ZiPwvU)
- 
-- **Spotify**: [Coming Soon]()
 
 ---
 
@@ -174,7 +174,7 @@ Join Ahmed on his journey of exploration, analysis, and innovation as he continu
 - **Data Collection**: ODK, Survey CTO, Survey Solutions
 - **Version Control**: Github, Visual Studio Code
 - **Office Suites**: Microsoft Office
-- **Artificial Intelligence**: OpenAI playground, Grok, DeepSeek, Claude, Gemini, Dall-E, Copilot, Jasper,  Midjourney, & others.
+- **Artificial Intelligence**: OpenAI playground, Grok, DeepSeek, Claude, Gemini, Dall-E, Copilot, Jasper,  Midjourney, n8n & others.
 
 ---
 
@@ -182,7 +182,7 @@ Join Ahmed on his journey of exploration, analysis, and innovation as he continu
 
 - Traveling
 - Music
-- Longboarding & Snowboarding 
+- Longboarding 
 - Freestyle Football 
 - Squash 
 - Table Tennis
