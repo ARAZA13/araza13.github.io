@@ -4,9 +4,9 @@
   
 ## Bio:
 
-Ahmed is a structured thinker, trained in economics, finance, data science and technology.  Data Scientist with over 9 years of experience driving evidence-based policy solutions at the intersection of economics, data science, and human development. Proven track record of leading data-driven initiatives at the World Bank Group, delivering measurable outcomes in global education policy and human capital development. Skilled in econometric modeling, data pipeline development, and stakeholder management, with expertise in Stata, R, Python, and data visualization tools. Adept at aligning technical solutions with organizational goals to address complex developmental challenges.
+Ahmed is a structured thinker, trained in economics, finance, data science and technology. With over 9 years of experience driving evidence-based policy solutions at the intersection of economics, data science, and human development. Proven track record of leading data-driven initiatives at the World Bank Group, delivering measurable outcomes in global education policy and human capital development. Skilled in econometric modeling, building naunced data pipelines for tracking  development indicators, and stakeholder management. Adept at aligning technical solutions with organizational goals to address complex developmental & business challenges. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu). 
 
-Ahmed is a structured thinker, trained in economics, finance, data science & technology. He currently works as an economist (consultant) with Education Global Practice @ [World Bank Group](https://www.worldbank.org/en/home), where he dives into the complexities of global economic issues and pressing human development challenges. His research interests lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu). 
+
 {: style="text-align: justify"}
 
 🇵🇰 ||  🇪🇸 || 🇨🇦 || 🇺🇸 || 
@@ -25,13 +25,14 @@ Ahmed is a structured thinker, trained in economics, finance, data science & tec
 
 ## Expertise:
 
-Ahmed's skill set combines econometric analysis with data governance & design thinking. He is a trained researcher with proven expertise in creating technical content, research management, team building, pattern recognition, artificial intelligence, and navigating complex data landscapes and markets. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key developmental, policy, and business challenges.
+Ahmed's skill set combines econometric analysis with data governance & design thinking. He is a trained researcher with proven expertise in creating technical content, research management, team building, pattern recognition, artificial intelligence, and navigating complex data landscapes and markets. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key developmental, policy, and business challenges. His research interests usually lie where development and data meet. 
+
 
 {: style="text-align: justify"}
 
 ---
 
-## Research Interests:
+## Research Focus:
 
  Evidence-based policy making, Applied Econometrics , Financial Economics, International Trade, Education , ESG , Human Capital, Technology Policy & Ariticial Intelligence.
 
