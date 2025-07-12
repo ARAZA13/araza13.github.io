@@ -4,6 +4,7 @@
   
 ## Bio:
 
+Ahmed is a structured thinker, trained in economics, finance, data science and technology.  Data Scientist with over 9 years of experience driving evidence-based policy solutions at the intersection of economics, data science, and human development. Proven track record of leading data-driven initiatives at the World Bank Group, delivering measurable outcomes in global education policy and human capital development. Skilled in econometric modeling, data pipeline development, and stakeholder management, with expertise in Stata, R, Python, and data visualization tools. Adept at aligning technical solutions with organizational goals to address complex developmental challenges.
 
 Ahmed is a structured thinker, trained in economics, finance, data science & technology. He currently works as an economist (consultant) with Education Global Practice @ [World Bank Group](https://www.worldbank.org/en/home), where he dives into the complexities of global economic issues and pressing human development challenges. His research interests lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu). 
 {: style="text-align: justify"}
@@ -25,6 +26,7 @@ Ahmed is a structured thinker, trained in economics, finance, data science & tec
 ## Expertise:
 
 Ahmed's skill set combines econometric analysis with data governance & design thinking. He is a trained researcher with proven expertise in creating technical content, research management, team building, pattern recognition, artificial intelligence, and navigating complex data landscapes and markets. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key developmental, policy, and business challenges.
+
 {: style="text-align: justify"}
 
 ---
@@ -47,15 +49,18 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 - **Key Contributions**
 
   - Spearheaded data initiatives for creating analytical global public goods to support results-based programming of the global education sector by capacity building.
+{: style="text-align: justify"}
 
   - Provided strategic and technical support by developing data pipelines in line with data priorities, harmonizing data , actively contributing to analysis and calculation of global development indicator(s) related to education & human capital.
+{: style="text-align: justify"}
 
-  - Designed and implemented robust M&E systems to support technical design and methodology for different projects on ESG & Human Capital
+  - Designed and implemented robust M&E systems to support technical design and methodology for different projects on ESG & Human Capital.
+{: style="text-align: justify"}
 
   - Developed and implemented innovative econometric models to evaluate the impact of policies and interventions on economic growth, fostering evidence-based decision-making and supporting effective policy formulation.
+{: style="text-align: justify"}
   
   - Contributed to flagship WBG project(s) and report(s) including but not limited to:  Learning Poverty, World Development Indicators,  Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).    
-
 {: style="text-align: justify"}
 
 ### Project Manager @ CERP
@@ -64,13 +69,16 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 - **Key Contribution(s)**
 
   - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
-  
-  - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies & the home department of Pakistan for deployment of the latest round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
+{: style="text-align: justify"}
 
- - Conceptualized & deployed LEAPS instrument for data collection which included android applications to measure young adults' cognitive and non-cognitive abilities. 
+
+  - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies & the home department of Pakistan for deployment of the latest round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
+{: style="text-align: justify"}
+
+  - Conceptualized & deployed LEAPS instrument for data collection which included android applications to measure young adults' cognitive and non-cognitive abilities. 
+{: style="text-align: justify"}
 
  - Analyzed incoming data to examine the linkages between education and labor market outcomes using psychometric analysis and item response theory (IRT) modeling of test scores.
-
 {: style="text-align: justify"}
 
 ### Senior Research Associate @ CERP
@@ -79,17 +87,21 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 - **Key Contribution(s)**
 
   - Contributed to research design & implementation aimed at removing credit constraints for low-cost private schools.
+{: style="text-align: justify"}
 
   - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
+{: style="text-align: justify"}
 
   - Conducted thorough design audits for different research project(s) and conducted code audit(s) in data querying & scripting language(s).
+{: style="text-align: justify"}
 
   - Analyzed a range processed data by applying advanced statistical techniques such as multivariate predictive modeling, survival analysis, principal component analysis (PCA), geo-spatial analysis, and time-series analysis.
+{: style="text-align: justify"}
    
   - Collaborated with cross-functional teams to design and execute impact assessments for education support services and microfinance loans to low cost private schools, providing valuable insights on resource allocation under tight budgetary constraints.
+{: style="text-align: justify"}
 
-  - Provided statistical and research support to research staff and external data clients, including banks and private sector firms, to optimize analysis, conduct data diagnostics and embed data in decisions related to operations in order to increase efficiency, outreach, impact, & profits.
-    
+  - Provided statistical and research support to research staff and external data clients, including banks and private sector firms, to optimize analysis, conduct data diagnostics and embed data in decisions related to operations in order to increase efficiency, outreach, impact, & profits.    
 {: style="text-align: justify"}
 
 ### Teaching Fellow - Rethinking [Financial Inclusion](https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20Files/RFI_Brochure.pdf) @ Harvard Kennedy School
@@ -98,6 +110,7 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 - **Key Contribution(s)**
 
 -  Based on my work at CERP, I was invited to be a teaching fellow for an executive course at the [Kennedy School](https://www.hks.harvard.edu), where I taught the smart design for policy design & practice to an eclectic mix of senior regulators & practitioners , engaging them on cutting-edge frameworks and methodologies in micro-finance and behavioral economics. 
+{: style="text-align: justify"}
 
 ### Research Associate @ CERP
 (_June 2014 - June 2016_)
@@ -105,12 +118,13 @@ Ahmed's skill set combines econometric analysis with data governance & design th
 - **Key Contribution(s)**
   
   - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
+{: style="text-align: justify"}
 
   - Acted as the primary point of contact to manage and build relationships with diverse stakeholders and field partners:  civil servants, police, judiciary, survey & leading tech-firms in Pakistan.
+{: style="text-align: justify"}
 
   - Acted as a primary focal point for fieldwork, instrument design,data cleaning, analysis and literature review for the published academic paper on [trust in 
 state institutions](https://khwaja.scholars.harvard.edu/sites/g/files/omnuum3221/files/%5Bvsite%3Asite-purl%5D/files/trust_state_20191026_final.pdf).
-
 {: style="text-align: justify"}
 
 ---
@@ -136,21 +150,24 @@ state institutions](https://khwaja.scholars.harvard.edu/sites/g/files/omnuum3221
 ### [Global Education Policy Dashboard - (GEPD)](https://www.educationpolicydashboard.org)
 
   - Guiding the methodology, implementation, &  analysis of the Global Education Policy Dashboard in Pakistan.
+{: style="text-align: justify"}
 
   - This project combines several data iniatives at the Education Global Practice to give a detailed systematic overview of education sector and offers a strong basis for identifying priorities for investment and policy reforms that are suited to  country-specific context.
-
-
 {: style="text-align: justify"}
 
 ### [Learning Poverty - 2022 Global Update](https://thedocs.worldbank.org/en/doc/e52f55322528903b27f1b7e61238e416-0200022022/original/Learning-poverty-report-2022-06-21-final-V7-0-conferenceEdition.pdf)
 
   - The [Learning Poverty](https://www.worldbank.org/en/topic/education/brief/what-is-learning-poverty) indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading.
+{: style="text-align: justify"}
 
   - Focuses on both "more schooling" and "better learning" for a holistic perspective on education.
+{: style="text-align: justify"}
 
   - Utilizes data from the [Global Learning Assessment Database (GLAD)](https://github.com/worldbank/GLAD).
+{: style="text-align: justify"}
 
   - Three complementary concepts: Learning poverty level, gap, and severity.
+{: style="text-align: justify"}
   
   - This flagship report informs Post-COVID education policy priorities and urges stakeholders for joint action.
 {: style="text-align: justify"}
@@ -158,6 +175,7 @@ state institutions](https://khwaja.scholars.harvard.edu/sites/g/files/omnuum3221
 ### [Pakistan – Human Capital Review: Building Capabilities Throughout Life](https://openknowledge.worldbank.org/entities/publication/8748b7a7-7345-4298-9631-3f5f146c7007)
 
   - Contributed to the production: analysis, data visualizations and write-up of the Human Capital Review.
+{: style="text-align: justify"}
   
   - This report calls for a long-term commitment to building human capital throughout life and advocates for intersectoral linkages and continuity of policies to enhance human capital in Pakistan.
 {: style="text-align: justify"}
