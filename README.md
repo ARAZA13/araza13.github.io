@@ -19,7 +19,7 @@ He enjoys longboarding for balance and good music for harmony.
 ## Digital Social Plaform(s):
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ar1313ar)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-lightblue)](https://twitter.com/AhmedRaza_13)
+[![X](https://img.shields.io/badge/Twitter-Follow-lightblue)](https://x.com/AhmedRaza_13)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/ahm3d_13/)
 
 ---
@@ -40,6 +40,7 @@ He enjoys longboarding for balance and good music for harmony.
 (_April 2019 - June 2025_)
 
 - **Key Contributions**
+{: style="text-align: justify"}
 
   - Spearheaded data initiatives for creating global public analytical products to support results-based programming of the  education sector.
 {: style="text-align: justify"}
