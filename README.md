@@ -42,7 +42,7 @@ He enjoys longboarding for balance and good music for harmony.
 - **Key Contributions**
 {: style="text-align: justify"}
 
-Spearheaded data initiatives for creating global public analytical products to support results-based programming of the  education sector.
+  - Spearheaded data initiatives for creating global public analytical products to support results-based programming of the  education sector.
 {: style="text-align: justify"}
 
   - Provided strategic and technical support by developing data pipelines in line with data priorities, harmonizing data from eclectic sources , actively contributing to analysis and calculation of global development indicator(s) related to education & human capital. 
@@ -66,7 +66,7 @@ Spearheaded data initiatives for creating global public analytical products to s
 - **Key Contribution(s)**
 {: style="text-align: justify"}
 
-Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
+  - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
 {: style="text-align: justify"}
 
   - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies & the home department of Pakistan for deployment of the latest round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
@@ -84,7 +84,7 @@ Directed data collection, methodology, and analysis for a series of cutting-edge
 - **Key Contribution(s)**
 {: style="text-align: justify"}
 
- Contributed to research design & implementation aimed at removing credit constraints for low-cost private schools.
+  - Contributed to research design & implementation aimed at removing credit constraints for low-cost private schools.
 {: style="text-align: justify"}
 
   - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
@@ -108,7 +108,7 @@ Directed data collection, methodology, and analysis for a series of cutting-edge
 - **Key Contribution(s)**
 {: style="text-align: justify"}
 
-Based on my work at CERP, I was invited to be a teaching fellow for an executive course at the [Kennedy School](https://www.hks.harvard.edu), where I taught the smart design for policy design & practice to an eclectic mix of senior regulators & practitioners , engaging them on cutting-edge frameworks and methodologies in micro-finance and behavioral economics. 
+  - Based on my work at CERP, I was invited to be a teaching fellow for an executive course at the [Kennedy School](https://www.hks.harvard.edu), where I taught the smart design for policy design & practice to an eclectic mix of senior regulators & practitioners , engaging them on cutting-edge frameworks and methodologies in micro-finance and behavioral economics. 
 {: style="text-align: justify"}
 
 ### Research Associate @ CERP
@@ -116,8 +116,8 @@ Based on my work at CERP, I was invited to be a teaching fellow for an executive
 
 - **Key Contribution(s)**
 {: style="text-align: justify"}
-  
-Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
+
+  - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
 {: style="text-align: justify"}
 
   - Acted as the primary point of contact to manage and build relationships with diverse stakeholders and field partners:  civil servants, police, judiciary, survey & leading tech-firms in Pakistan.
