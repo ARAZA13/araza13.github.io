@@ -102,7 +102,7 @@ He enjoys longboarding for balance and good music for harmony.
   - Provided statistical and research support to research staff and external data clients, including banks and private sector firms, to optimize analysis, conduct data diagnostics and embed data in decisions related to operations in order to increase efficiency, outreach, impact, & profits.    
 {: style="text-align: justify"}
 
-### Teaching Fellow - Rethinking [Financial Inclusion](https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20Files/RFI_Brochure.pdf) @ Harvard Kennedy School
+### Teaching Fellow -  [Rethinking Financial Inclusion](https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20Files/RFI_Brochure.pdf) @ Harvard Kennedy School
 (_April 2016 - April 2016_)
 
 - **Key Contribution(s)**
