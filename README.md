@@ -4,9 +4,10 @@
   
 ## Bio:
 
-Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu). He enjoys longboarding for balance and good music for harmony. 
+Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
+{: style="text-align: justify"}
 
-
+He enjoys longboarding for balance and good music for harmony. 
 {: style="text-align: justify"}
 
 🌍 **Global Experience**: 
@@ -29,12 +30,9 @@ Ahmed is a global citizen - a structured thinker, trained in economics, finance,
 ## Research Focus:
 
  Evidence-based policy making, Applied Econometrics , Financial Economics, International Trade, Education , ESG , Human Capital, Technology Policy & Ariticial Intelligence.
-
-
 {: style="text-align: justify"}
 
 ---
-
 
 ## Work Experience
 
@@ -43,13 +41,13 @@ Ahmed is a global citizen - a structured thinker, trained in economics, finance,
 
 - **Key Contributions**
 
-  - Spearheaded data initiatives for creating analytical global public analytical products to support results-based programming of the  education sector by capacity building.
+  - Spearheaded data initiatives for creating global public analytical products to support results-based programming of the  education sector.
 {: style="text-align: justify"}
 
-  - Provided strategic and technical support by developing data pipelines in line with data priorities, harmonizing data , actively contributing to analysis and calculation of global development indicator(s) related to education & human capital.
+  - Provided strategic and technical support by developing data pipelines in line with data priorities, harmonizing data from eclectic sources , actively contributing to analysis and calculation of global development indicator(s) related to education & human capital. 
 {: style="text-align: justify"}
 
-  - Designed and implemented robust M&E systems to support technical design and methodology for different projects on Education, Finace, ESG & Human Capital.
+  - Designed and implemented robust M&E systems to measure impact of project(s) on Education and Human Capital.
 {: style="text-align: justify"}
 
   - Developed and implemented innovative econometric models to evaluate the impact of policies and interventions on economic growth, fostering evidence-based decision-making and supporting effective policy formulation.
