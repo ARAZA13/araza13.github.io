@@ -42,7 +42,7 @@ He enjoys longboarding for balance and good music for harmony.
 - **Key Contributions**
 {: style="text-align: justify"}
 
-  - Spearheaded data initiatives for creating global public analytical products to support results-based programming of the  education sector.
+Spearheaded data initiatives for creating global public analytical products to support results-based programming of the  education sector.
 {: style="text-align: justify"}
 
   - Provided strategic and technical support by developing data pipelines in line with data priorities, harmonizing data from eclectic sources , actively contributing to analysis and calculation of global development indicator(s) related to education & human capital. 
@@ -57,7 +57,6 @@ He enjoys longboarding for balance and good music for harmony.
  - Executed 2 country-level missions to Pakistan and worked closely with a variety of stakeholders, including government officials , civil society organizations to strengthen statiscal capactity and promote sustainable development. 
 {: style="text-align: justify"}
   
- 
   - Contributed to flagship WBG project(s) and report(s) including but not limited to:  Learning Poverty, World Development Indicators,  Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).    
 {: style="text-align: justify"}
 
@@ -68,7 +67,6 @@ He enjoys longboarding for balance and good music for harmony.
 
   - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
 {: style="text-align: justify"}
-
 
   - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies & the home department of Pakistan for deployment of the latest round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
 {: style="text-align: justify"}
