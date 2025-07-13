@@ -69,7 +69,7 @@ He enjoys longboarding for balance and good music for harmony.
   - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
 {: style="text-align: justify"}
 
-  - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies for deployment of the latest LEAPS round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
+  - Managed a diverse set of stakeholders, pitched the project to senior bureaucrats and got it cleared from security agencies for deployment of the latest LEAPS round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
 {: style="text-align: justify"}
 
   - Conceptualized & deployed LEAPS instrument for data collection which included android applications to measure young adults' cognitive and non-cognitive abilities. 
@@ -90,10 +90,10 @@ He enjoys longboarding for balance and good music for harmony.
   - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
 {: style="text-align: justify"}
 
-  - Conducted thorough design audits for different research project(s) and conducted code audit(s) in data querying & scripting language(s).
+  - Conducted thorough design audits for different research project(s) and conducted code audit(s) in data querying & scripting language(s) to support junior research staff.
 {: style="text-align: justify"}
 
-  - Analyzed a range processed data by applying advanced statistical techniques such as multivariate predictive modeling, survival analysis, principal component analysis (PCA), geo-spatial analysis, and time-series analysis.
+  - Analyzed a range processed data by applying advanced statistical techniques such as multivariate predictive modelling, survival analysis, principal component analysis (PCA), geo-spatial analysis, and time-series analysis.
 {: style="text-align: justify"}
    
   - Collaborated with cross-functional teams to design and execute impact assessments for education support services and microfinance loans to low cost private schools, providing valuable insights on resource allocation under tight budgetary constraints.
