@@ -19,7 +19,7 @@ He enjoys longboarding for balance and good music for harmony.
 ## Digital Social Plaform(s):
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ar1313ar)
-[![X](https://img.shields.io/badge/Twitter-Follow-lightblue)](https://x.com/AhmedRaza_13)
+[![X](https://img.shields.io/badge/x-Follow-black)](https://x.com/AhmedRaza_13)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/ahm3d_13/)
 
 ---
