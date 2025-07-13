@@ -4,13 +4,13 @@
   
 ## Bio:
 
-Ahmed is a structured thinker, trained in economics, finance, data science and technology. With over 9 years of experience driving evidence-based policy solutions at the intersection of economics, data science, and human development. Proven track record of leading data-driven initiatives at the World Bank Group, delivering measurable outcomes in global education policy and human capital. He is skilled in econometric modeling, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. The diversity of his professional and educational experiences have make him adept at aligning technical solutions with organizational goals to address complex developmental & business challenges. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu). 
+Ahmed is a structured thinker, trained in economics, finance, data science and technology. With over 9 years of experience driving evidence-based policy solutions at the intersection of economics, data science, and human development. Proven track record of leading data-driven initiatives at the World Bank Group, delivering measurable outcomes in global education policy and human capital. He is skilled in econometric modeling, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu). 
 
 
 {: style="text-align: justify"}
 
-🌍 **Global Experience**: Pakistan, Spain, Canada, USA  🇵🇰 ||  🇪🇸 || 🇨🇦 || 🇺🇸 || 
-
+🌍 **Global Experience**: 
+🇵🇰 ||  🇪🇸 || 🇨🇦 || 🇺🇸 || 
 {: style="text-align: justify"}
 
 ---
