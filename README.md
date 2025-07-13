@@ -69,7 +69,7 @@ He enjoys longboarding for balance and good music for harmony.
   - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
 {: style="text-align: justify"}
 
-  - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies & the home department of Pakistan for deployment of the latest round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
+  - Managed a diverse set of stakeholders, pitched the project to senior beaucrats and got it cleared from security agencies for deployment of the latest LEAPS round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
 {: style="text-align: justify"}
 
   - Conceptualized & deployed LEAPS instrument for data collection which included android applications to measure young adults' cognitive and non-cognitive abilities. 
