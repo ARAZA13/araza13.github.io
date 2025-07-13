@@ -4,7 +4,7 @@
   
 ## Bio:
 
-Ahmed is a structured thinker, trained in economics, finance, data science and technology. With over 9 years of experience driving evidence-based policy solutions at the intersection of economics, data science, and human development. Proven track record of leading data-driven initiatives at the World Bank Group, delivering measurable outcomes in global education policy and human capital. He is skilled in econometric modeling, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu). 
+Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu). He enjoys longboarding for balance and good music for harmony. 
 
 
 {: style="text-align: justify"}
@@ -22,12 +22,6 @@ Ahmed is a structured thinker, trained in economics, finance, data science and t
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-orange)](https://www.instagram.com/ahm3d_13/)
 
 ---
-
-## Expertise:
-
-Ahmed's skill set combines econometric analysis with data governance & design thinking. He is a trained researcher with proven expertise in creating technical content, research management, team building, pattern recognition, innovation with artificial intelligence, and building / navigating complex data landscapes. His unique work portfolio and background makes him a versatile professional at the intersection of economics and data science. Ahmed's work focuses in leveraging the power of data to solve key development & business challenges. His research interests usually lie where development and data meet. 
-
-
 {: style="text-align: justify"}
 
 ---
@@ -61,24 +55,9 @@ Ahmed's skill set combines econometric analysis with data governance & design th
   - Developed and implemented innovative econometric models to evaluate the impact of policies and interventions on economic growth, fostering evidence-based decision-making and supporting effective policy formulation.
 {: style="text-align: justify"}
 
- - Executed 2 country-level missions to Pakistan, to work closely with a variety of stakeholders, including government officials , civil society organizations to strengthen statiscal capactity and promote sustainable development. 
+ - Executed 2 country-level missions to Pakistan and worked closely with a variety of stakeholders, including government officials , civil society organizations to strengthen statiscal capactity and promote sustainable development. 
 {: style="text-align: justify"}
-   
-
-1. Project Management and Implementation: 
-Country mission staff are directly involved in managing and overseeing World Bank-financed projects in member countries.
-This includes tasks like monitoring project performance, ensuring compliance with World Bank policies, and facilitating communication between the Bank and local counterparts.
-For example, they might be working on projects related to infrastructure development, education, or healthcare.
-2. Policy Advice and Dialogue: 
-Country mission staff engage in policy dialogue with governments and other stakeholders in member countries.
-They provide technical expertise and advice on a wide range of development issues, helping countries formulate and implement effective policies.
-This might involve analyzing economic trends, providing recommendations on fiscal policy, or supporting the development of social safety nets.
-3. Stakeholder Engagement: 
-Country mission staff work closely with a variety of stakeholders, including government officials, civil society organizations, and the private sector.
-They build relationships, facilitate consultations, and ensure that the World Bank's work is responsive to the needs and priorities of the countries it serves.
-4. Regional and Global Coordination: 
-Country mission staff also contribute to the World Bank's regional and global efforts.
-They work with other World Bank staff, including those in regional vice presidencies and global practices, to share knowledge, coordinate activities, and ensure consistency in the Bank's approach to development.
+  
  
   - Contributed to flagship WBG project(s) and report(s) including but not limited to:  Learning Poverty, World Development Indicators,  Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).    
 {: style="text-align: justify"}
