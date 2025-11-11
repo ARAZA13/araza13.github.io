@@ -4,7 +4,7 @@
   
 ## Bio:
 
-Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [EPOD-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
+Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [CID-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
 {: style="text-align: justify"}
 
 He enjoys longboarding for balance and good music for harmony. 
