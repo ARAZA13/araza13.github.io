@@ -90,7 +90,7 @@ He enjoys longboarding for balance and good music for harmony.
 
 {: style="text-align: justify"}
 
-  - **Award:** VPU Team Awards Winner - 2023
+  - **Award:** VPU Team Awards Winner -   _June 2023_
   - **Institution:** World Bank Group
 
 ---
