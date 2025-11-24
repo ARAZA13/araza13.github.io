@@ -77,7 +77,7 @@ He enjoys longboarding for balance and good music for harmony.
 
   - **Certificate:** Project Management and Change management 
   - **Institution:** World Bank Group
-  - 
+   
 {: style="text-align: justify"}
 
   - **Certificate:** Cybersecurity in the age of Artificial Intelligence (AI) 
@@ -88,6 +88,7 @@ He enjoys longboarding for balance and good music for harmony.
   - **Certificate:** Social Media Engagement 
   - **Institution:** World Bank Group
 
+{: style="text-align: justify"}
 
   - **Award:** VPU Team Awards Winner - 2023: For my work on the "report state of global learning poverty(2022)" 
   - **Institution:** World Bank Group
@@ -153,8 +154,8 @@ He enjoys longboarding for balance and good music for harmony.
 
 ## Proficienct in software(s):
 
-- **Statistical Analysis**: Stata, R, E-Views
-- **Scripting & Data Querying Languages**: Python, SQL, Cypher
+- **Statistical Analysis**: Stata, R, E-Views, Tableau, Power BI 
+- **Scripting & Data Querying Languages**: Python, SQL, Cypher, SPSS
 - **Data Visualization**: Tableau, Power BI, Neo4j
 - **Data Collection**: ODK, Survey CTO, Survey Solutions
 - **Version Control**: Github, Visual Studio Code
