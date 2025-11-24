@@ -182,7 +182,8 @@ He enjoys longboarding for balance and good music for harmony.
 
 - **Program and Project Management**,
 - **Change Management, Stakeholder Facilitation**,
-- **Strategic Alignment, Organizational Development**,
+- **Strategic Alignment**,
+- **Organizational Development**,
 - **Executive Communication**,
 - **Advanced Analysis**,
 - **Fund Raising and Donor Engagement**,
