@@ -181,18 +181,9 @@ He enjoys longboarding for balance and good music for harmony.
 # Areas of Expertise: 
 {: style="text-align: justify"}
 
-**Program and Project Management**,
-**Change Management**,
-**Stakeholder Facilitation**,
-**Strategic Alignment**,
-**Organizational Development**,
-**Executive Communication**,
-**Advanced Analysis**,
-**Fund Raising and Donor Engagement**,
-**Monitoring, Evaluation, and Learning (M&E)**, 
-**Impact Evaluation and Field Coordination**,
-**Development Economics and Evidence-Based Policymaking**,
-**Data pipeline architecture** 
+**Program and Project Management, Change Management, Stakeholder Facilitation, Strategic Alignment, Organizational Development, Executive Communication, Advanced Analysis, Fund Raising and Donor Engagement, Monitoring, Evaluation, and Learning (M&E), Impact Evaluation & Field Coordination, Development Economics, Data pipeline architecture.** 
+
+
 
 {: style="text-align: justify"}
 
