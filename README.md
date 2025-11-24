@@ -89,6 +89,10 @@ He enjoys longboarding for balance and good music for harmony.
   - **Institution:** World Bank Group
 
 
+  - **Award:** VPU Team Awards Winner - 2023: For my work on the "report state of global learning poverty(2022)" 
+  - **Institution:** World Bank Group
+
+
 (<span style="font-size: smaller;">Evaluated by World Education Services (WES), as equivalent to a Canadian bachelor’s degree</span>)
 
 ---
@@ -104,7 +108,7 @@ He enjoys longboarding for balance and good music for harmony.
   - This project combines several data iniatives at the Education Global Practice to give a detailed systematic overview of education sector and offers a strong basis for identifying priorities for investment in education eco-system at country - level , and policy reforms that are suited to a country-specific context.
 {: style="text-align: justify"}
 
-### [Learning Poverty - 2022 Global Update](https://thedocs.worldbank.org/en/doc/e52f55322528903b27f1b7e61238e416-0200022022/original/Learning-poverty-report-2022-06-21-final-V7-0-conferenceEdition.pdf)
+### [State of Global Learning Poverty - 2022 Update](https://thedocs.worldbank.org/en/doc/e52f55322528903b27f1b7e61238e416-0200022022/original/Learning-poverty-report-2022-06-21-final-V7-0-conferenceEdition.pdf)
 
   - The [Learning Poverty](https://www.worldbank.org/en/topic/education/brief/what-is-learning-poverty) indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading.
 {: style="text-align: justify"}
