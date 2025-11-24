@@ -77,16 +77,16 @@ He enjoys longboarding for balance and good music for harmony.
 
   - **Certificate:** Project Management and Change management 
   - **Institution:** World Bank Group
-  - **Graduation Date:** _Feb 2025_ 
-     
+  - 
+{: style="text-align: justify"}
+
   - **Certificate:** Cybersecurity in the age of Artificial Intelligence (AI) 
   - **Institution:** World Bank Group
-  - **Graduation Date:** _Jan 2025_
 
+{: style="text-align: justify"}
    
   - **Certificate:** Social Media Engagement 
   - **Institution:** World Bank Group
-  - **Graduation Date:** _Jan 2024_
 
 
 (<span style="font-size: smaller;">Evaluated by World Education Services (WES), as equivalent to a Canadian bachelor’s degree</span>)
