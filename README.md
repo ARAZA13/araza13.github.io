@@ -181,7 +181,7 @@ He enjoys longboarding for balance and good music for harmony.
 # Areas of Expertise: 
 {: style="text-align: justify"}
 
-**Program and Project Management***
+**Program and Project Management**
 **Change Management**
 **Stakeholder Facilitation**
 **Strategic Alignment**
