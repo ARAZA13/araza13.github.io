@@ -163,7 +163,7 @@ He enjoys longboarding for balance and good music for harmony.
 ## SKILLS:
 {: style="text-align: justify"}
 
-# Technical Skills:
+**Technical Skills**:
 
 {: style="text-align: justify"}
 
@@ -178,13 +178,20 @@ He enjoys longboarding for balance and good music for harmony.
 
 {: style="text-align: justify"}
 
-# Areas of Expertise: 
+**Areas of Expertise:** 
 {: style="text-align: justify"}
 
-**Program and Project Management, Change Management, Stakeholder Facilitation, Strategic Alignment, Organizational Development, Executive Communication, Advanced Analysis, Fund Raising and Donor Engagement, Monitoring, Evaluation, and Learning (M&E), Impact Evaluation & Field Coordination, Development Economics, Data pipeline architecture.** 
-
-
-
+- Program and Project Management,
+- Change Management, Stakeholder Facilitation,
+- Strategic Alignment, Organizational Development,
+- Executive Communication,
+- Advanced Analysis,
+- Fund Raising and Donor Engagement,
+- Monitoring, Evaluation, and Learning (M&E),
+- Impact Evaluation & Field Coordination,
+- Development Economics, and
+- Data pipeline architecture.
+- 
 {: style="text-align: justify"}
 
 ---
