@@ -146,7 +146,6 @@ He enjoys longboarding for balance and good music for harmony.
   - With 20+ years of high-impact education research, LEAPS is the largest body of education research in Pakistan and one of the largest in any low-income country.
 
   - I was involved in the latest round of LEAPS, and contributed significantly towards tracking and tagging students of the panel study, deploying the latest round of questionnaires to measure cognitive and non-cognitive skills of the sample,  building culturally sensitive teams for qualitative and quantitative data analysis, stakeholder management, and research design to answer key education and labor market questions. 
-
 {: style="text-align: justify"}
 
 
@@ -191,7 +190,6 @@ He enjoys longboarding for balance and good music for harmony.
 - Impact Evaluation & Field Coordination,
 - Development Economics, and
 - Data pipeline architecture.
-- 
 {: style="text-align: justify"}
 
 ---
