@@ -56,7 +56,7 @@ He enjoys longboarding for balance and good music for harmony.
 
 ---
 
-## EDUCATION
+## EDUCATION:
 
   - **Degree:** MSc in Specialized Economic Analysis with a concentration on International Trade, Economics and Development Economics
   - **Institution:** Barcelona School of Economics
@@ -144,6 +144,7 @@ He enjoys longboarding for balance and good music for harmony.
 ### [Learning and Educational Achievement in Paksitan Schools (LEAPS)](https://www.leaps.hks.harvard.edu)
 
   - With 20+ years of high-impact education research, LEAPS is the largest body of education research in Pakistan and one of the largest in any low-income country.
+{: style="text-align: justify"}
 
   - I was involved in the latest round of LEAPS, and contributed significantly towards tracking and tagging students of the panel study, deploying the latest round of questionnaires to measure cognitive and non-cognitive skills of the sample,  building culturally sensitive teams for qualitative and quantitative data analysis, stakeholder management, and research design to answer key education and labor market questions. 
 {: style="text-align: justify"}
@@ -163,7 +164,6 @@ He enjoys longboarding for balance and good music for harmony.
 {: style="text-align: justify"}
 
 **Technical Skills**:
-
 {: style="text-align: justify"}
 
 - **Statistical Analysis**: Stata, R, E-Views,  
@@ -180,16 +180,16 @@ He enjoys longboarding for balance and good music for harmony.
 **Areas of Expertise:** 
 {: style="text-align: justify"}
 
-- Program and Project Management,
-- Change Management, Stakeholder Facilitation,
-- Strategic Alignment, Organizational Development,
-- Executive Communication,
-- Advanced Analysis,
-- Fund Raising and Donor Engagement,
-- Monitoring, Evaluation, and Learning (M&E),
-- Impact Evaluation & Field Coordination,
-- Development Economics, and
-- Data pipeline architecture.
+- **Program and Project Management**,
+- **Change Management, Stakeholder Facilitation**,
+- **Strategic Alignment, Organizational Development**,
+- **Executive Communication**,
+- **Advanced Analysis**,
+- **Fund Raising and Donor Engagement**,
+- **Monitoring, Evaluation, and Learning (M&E)**,
+- **Impact Evaluation & Field Coordination**,
+- **Development Economics**, and
+- **Data pipeline architecture**
 {: style="text-align: justify"}
 
 ---
