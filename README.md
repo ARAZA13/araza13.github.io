@@ -4,7 +4,7 @@
   
 ## Bio:
 
-Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [CID-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
+Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes and implementation challenges. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [CID-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
 {: style="text-align: justify"}
 
 He enjoys longboarding for balance and good music for harmony. 
@@ -29,7 +29,7 @@ He enjoys longboarding for balance and good music for harmony.
 
 ## Research Focus:
 
- Evidence-based policy making, Applied Econometrics , Financial Economics, International Trade, Education , ESG , Human Capital, Technology Policy & Ariticial Intelligence.
+ Evidence-based policy making, Applied Econometrics , Financial Economics, International Trade, Education , ESG , Human Capital Strategy, Technology Policy, Research Design & Ariticial Intelligence.
 {: style="text-align: justify"}
 
 ---
@@ -39,93 +39,20 @@ He enjoys longboarding for balance and good music for harmony.
 ### Consultant Economist & Data Scientist @ World Bank Group(WBG)
 (_April 2019 - June 2025_)
 
-- **Key Contributions**
-{: style="text-align: justify"}
-
-  - Spearheaded data initiatives for creating global public analytical products to support results-based programming of the  education sector.
-{: style="text-align: justify"}
-
-  - Provided strategic and technical support by developing data pipelines in line with data priorities, harmonizing data from eclectic sources , actively contributing to analysis and calculation of global development indicator(s) related to education & human capital. 
-{: style="text-align: justify"}
-
-  - Designed and implemented robust M&E systems to measure impact of project(s) on Education and Human Capital.
-{: style="text-align: justify"}
-
-  - Developed and implemented innovative econometric models to evaluate the impact of policies and interventions on economic growth, fostering evidence-based decision-making and supporting effective policy formulation.
-{: style="text-align: justify"}
-
- - Executed 2 country-level missions to Pakistan and worked closely with a variety of stakeholders, including government officials , civil society organizations to strengthen statiscal capactity and promote sustainable development. 
-{: style="text-align: justify"}
-  
-  - Contributed to flagship WBG project(s) and report(s) including but not limited to:  Learning Poverty, World Development Indicators,  Data Depot-Pakistan, Human Capital Review - Pakistan, and Global Education Policy Dashboard(GEPD).    
-{: style="text-align: justify"}
-
 ### Project Manager @ CERP
 (_July 2018 - April 2019_)
-
-- **Key Contribution(s)**
-{: style="text-align: justify"}
-
-  - Directed data collection, methodology, and analysis for a series of cutting-edge research projects and embedded randomized controlled trials (RCTs), under the [LEAPS program](https://www.leaps.hks.harvard.edu).
-{: style="text-align: justify"}
-
-  - Managed a diverse set of stakeholders, pitched the project to senior bureaucrats and got it cleared from security agencies for deployment of the latest LEAPS round, which tracked & surveyed 1,000,000+ students in the LEAPS sample from 112 villages, in order to create a one of a kind panel dataset on education and its demographic dividends, covering every aspect of the educational marketplace.
-{: style="text-align: justify"}
-
-  - Conceptualized & deployed LEAPS instrument for data collection which included android applications to measure young adults' cognitive and non-cognitive abilities. 
-{: style="text-align: justify"}
-
- - Analyzed incoming data to examine the linkages between education and labor market outcomes using psychometric analysis and item response theory (IRT) modeling of test scores.
-{: style="text-align: justify"}
 
 ### Senior Research Associate @ CERP
 (_June 2016 - July 2018_)
 
-- **Key Contribution(s)**
-{: style="text-align: justify"}
-
-  - Contributed to research design & implementation aimed at removing credit constraints for low-cost private schools.
-{: style="text-align: justify"}
-
-  - Enhanced statistical analyses and data quality at [CERP- Analytics](https://www.cerp.org.pk/analytics/).
-{: style="text-align: justify"}
-
-  - Conducted thorough design audits for different research project(s) and conducted code audit(s) in data querying & scripting language(s) to support junior research staff.
-{: style="text-align: justify"}
-
-  - Analyzed a range processed data by applying advanced statistical techniques such as multivariate predictive modelling, survival analysis, principal component analysis (PCA), geo-spatial analysis, and time-series analysis.
-{: style="text-align: justify"}
-   
-  - Collaborated with cross-functional teams to design and execute impact assessments for education support services and microfinance loans to low cost private schools, providing valuable insights on resource allocation under tight budgetary constraints.
-{: style="text-align: justify"}
-
-  - Provided statistical and research support to research staff and external data clients, including banks and private sector firms, to optimize analysis, conduct data diagnostics and embed data in decisions related to operations in order to increase efficiency, outreach, impact, & profits.    
-{: style="text-align: justify"}
-
 ### Teaching Fellow -  [Rethinking Financial Inclusion](https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20Files/RFI_Brochure.pdf) @ Harvard Kennedy School
 (_April 2016 - April 2016_)
-
-- **Key Contribution(s)**
-{: style="text-align: justify"}
 
   - Based on my work at CERP, I was invited to be a teaching fellow for an executive course at the [Kennedy School](https://www.hks.harvard.edu), where I taught the smart design for policy design & practice to an eclectic mix of senior regulators & practitioners , engaging them on cutting-edge frameworks and methodologies in micro-finance and behavioral economics. 
 {: style="text-align: justify"}
 
 ### Research Associate @ CERP
 (_June 2014 - June 2016_)
-
-- **Key Contribution(s)**
-{: style="text-align: justify"}
-
-  - Conducted field experiments and behavioral lab games to assess citizens’ interaction with state resources in urban and rural settings.
-{: style="text-align: justify"}
-
-  - Acted as the primary point of contact to manage and build relationships with diverse stakeholders and field partners:  civil servants, police, judiciary, survey & leading tech-firms in Pakistan.
-{: style="text-align: justify"}
-
-  - Acted as a primary focal point for fieldwork, instrument design,data cleaning, analysis and literature review for the published academic paper on [trust in 
-state institutions](https://khwaja.scholars.harvard.edu/sites/g/files/omnuum3221/files/%5Bvsite%3Asite-purl%5D/files/trust_state_20191026_final.pdf).
-{: style="text-align: justify"}
 
 ---
 
@@ -144,6 +71,28 @@ state institutions](https://khwaja.scholars.harvard.edu/sites/g/files/omnuum3221
 (<span style="font-size: smaller;">Evaluated by World Education Services (WES), as equivalent to a Canadian bachelor’s degree</span>)
 
 ---
+
+
+## CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+
+  - **Certificate:** Project Management and Change management 
+  - **Institution:** World Bank Group
+  - **Graduation Date:** _Feb 2025_ 
+     
+  - **Certificate:** Cybersecurity in the age of Artificial Intelligence (AI) 
+  - **Institution:** World Bank Group
+  - **Graduation Date:** _Jan 2025_
+
+   
+  - **Certificate:** Social Media Engagement 
+  - **Institution:** World Bank Group
+  - **Graduation Date:** _Jan 2024_
+
+
+(<span style="font-size: smaller;">Evaluated by World Education Services (WES), as equivalent to a Canadian bachelor’s degree</span>)
+
+---
+
 
 ## Recent Project(s) & Publication(s):
 
