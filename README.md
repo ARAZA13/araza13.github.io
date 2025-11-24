@@ -2,7 +2,7 @@
 
 ---
   
-## Bio:
+## PROFESSIONAL SUMMARY:
 
 Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes and implementation challenges. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [CID-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
 {: style="text-align: justify"}
@@ -16,7 +16,7 @@ He enjoys longboarding for balance and good music for harmony.
 
 ---
 
-## Digital Social Plaform(s):
+## Social Media Plaform(s):
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ar1313ar)
 [![X](https://img.shields.io/badge/x-Follow-black)](https://x.com/AhmedRaza_13)
@@ -27,22 +27,22 @@ He enjoys longboarding for balance and good music for harmony.
 
 ---
 
-## Research Focus:
+## RESEARCH FOCUS:
 
  Evidence-based policy making, Applied Econometrics , Financial Economics, International Trade, Education , ESG , Human Capital Strategy, Technology Policy, Research Design & Ariticial Intelligence.
 {: style="text-align: justify"}
 
 ---
 
-## Work Experience
+## WORK HISTORY:
 
 ### Consultant Economist & Data Scientist @ World Bank Group(WBG)
 (_April 2019 - June 2025_)
 
-### Project Manager @ CERP
+### Project Manager @ Centre for Economic Research in Pakistan (CERP)
 (_July 2018 - April 2019_)
 
-### Senior Research Associate @ CERP
+### Senior Research Associate @ Centre for Economic Research in Pakistan (CERP)
 (_June 2016 - July 2018_)
 
 ### Teaching Fellow -  [Rethinking Financial Inclusion](https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20Files/RFI_Brochure.pdf) @ Harvard Kennedy School
@@ -51,12 +51,12 @@ He enjoys longboarding for balance and good music for harmony.
   - Based on my work at CERP, I was invited to be a teaching fellow for an executive course at the [Kennedy School](https://www.hks.harvard.edu), where I taught the smart design for policy design & practice to an eclectic mix of senior regulators & practitioners , engaging them on cutting-edge frameworks and methodologies in micro-finance and behavioral economics. 
 {: style="text-align: justify"}
 
-### Research Associate @ CERP
+### Research Associate @ Centre for Economic Research in Pakistan (CERP)
 (_June 2014 - June 2016_)
 
 ---
 
-## Education
+## EDUCATION
 
   - **Degree:** MSc in Specialized Economic Analysis with a concentration on International Trade, Economics and Development Economics
   - **Institution:** Barcelona School of Economics
@@ -73,7 +73,7 @@ He enjoys longboarding for balance and good music for harmony.
 ---
 
 
-## CERTIFICATIONS & PROFESSIONAL DEVELOPMENT
+## CERTIFICATIONS & RECOGNITION:
 
   - **Certificate:** Project Management and Change management 
   - **Institution:** World Bank Group
@@ -90,16 +90,13 @@ He enjoys longboarding for balance and good music for harmony.
 
 {: style="text-align: justify"}
 
-  - **Award:** VPU Team Awards Winner - 2023: For my work on the "report state of global learning poverty(2022)" 
+  - **Award:** VPU Team Awards Winner - 2023
   - **Institution:** World Bank Group
-
-
-(<span style="font-size: smaller;">Evaluated by World Education Services (WES), as equivalent to a Canadian bachelor’s degree</span>)
 
 ---
 
 
-## Recent Project(s) & Publication(s):
+## PROJECTS & PUBLICATIONS:
 
 ### [Global Education Policy Dashboard - (GEPD)](https://www.educationpolicydashboard.org)
 
@@ -163,19 +160,41 @@ He enjoys longboarding for balance and good music for harmony.
 
 ---
 
-## Proficienct in software(s):
+## SKILLS:
+{: style="text-align: justify"}
 
-- **Statistical Analysis**: Stata, R, E-Views, Tableau, Power BI 
+# Technical Skills:
+
+{: style="text-align: justify"}
+
+- **Statistical Analysis**: Stata, R, E-Views,  
 - **Scripting & Data Querying Languages**: Python, SQL, Cypher, SPSS
 - **Data Visualization**: Tableau, Power BI, Neo4j
 - **Data Collection**: ODK, Survey CTO, Survey Solutions
 - **Version Control**: Github, Visual Studio Code
-- **Office Suites**: Microsoft Office
+- **Office Suites**: Microsoft Office and Google Workspace
 - **Artificial Intelligence**: OpenAI playground, Grok, DeepSeek, Claude, Gemini, Dall-E, Copilot, Jasper,  Midjourney, n8n & others.
+- **Languages**: English (native),  Urdu and Punjabi ((proficient), Spanish (intermediate), and Arabic (basic).
+
+{: style="text-align: justify"}
+
+# Areas of Expertise: 
+{: style="text-align: justify"}
+
+**Program and Project Management***
+**Change Management**
+**Stakeholder Facilitation**
+**Strategic Alignment**
+**Organizational Development**
+**Executive Communication**
+**Advanced Analysis**
+**Fund Raising and Donor Engagement**
+
+{: style="text-align: justify"}
 
 ---
 
-## Other Interest(s):
+## OTHER INTERESTS: 
 
 - Traveling
 - Music
@@ -184,5 +203,6 @@ He enjoys longboarding for balance and good music for harmony.
 - Squash 
 - Table Tennis
 - Chess
+
 
 
