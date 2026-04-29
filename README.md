@@ -146,7 +146,9 @@ He enjoys longboarding for balance and good music for harmony.
   - With 20+ years of high-impact education research, LEAPS is the largest body of education research in Pakistan and one of the largest in any low-income country.
 {: style="text-align: justify"}
 
-  - I was involved in the latest round of LEAPS, and contributed significantly towards tracking and tagging students of the panel study, deploying the latest round of questionnaires to measure cognitive and non-cognitive skills of the sample,  building culturally sensitive teams for qualitative and quantitative data analysis, stakeholder management, and research design to answer key education and labor market questions. 
+  - I was involved in the latest round of LEAPS, and contributed significantly towards tracking and tagging students of the panel study, deploying the latest round of questionnaires to measure cognitive and non-cognitive skills of the sample,  building culturally sensitive teams for qualitative and quantitative data analysis, stakeholder management, and research design to answer key education and labor market questions.
+  - Designed and worked on data collection and methodology on a series of off-shoot studies including [the education financing project](https://www.leaps.hks.harvard.edu/research/education-financing) where I contributed to key elements of project design from inception to execution: developed and tested the screener surveys, assembled baseline, midline and endline datasets, provided analytical and field support to a complex RCT to measure the impact of removing credit constraints and providing education support services to private and public schools. 
+  
 {: style="text-align: justify"}
 
 
@@ -155,8 +157,11 @@ He enjoys longboarding for balance and good music for harmony.
 
   - Monitored, evaluated, and conducted field experiments and behavioral lab games to assess the logic behind citizens’ interaction with state resources in both urban and rural settings.
 
-  - This paper explores the determinants of trust in state institutions in Pakistan by investigating whether positive engagement can revitalize a citizen's sense of trust in the state.
+  - This [published paper](https://economics.mit.edu/sites/default/files/publications/Trust%20in%20State%20and%20Non-State%20Actors%20-%20Evidence%20fro.pdf) explores the determinants of trust in state institutions in Pakistan by investigating whether positive engagement can revitalize a citizen's sense of trust in the state.
+  
 {: style="text-align: justify"}
+
+
 
 ---
 
@@ -166,7 +171,7 @@ He enjoys longboarding for balance and good music for harmony.
 **Technical Skills**:
 {: style="text-align: justify"}
 
-- **Statistical Analysis**: Stata, R, E-Views,  
+- **Statistical Analysis**: Stata, Minitab SPSS R, E-Views,  
 - **Scripting & Data Querying Languages**: Python, SQL, Cypher, SPSS
 - **Data Visualization**: Tableau, Power BI, Neo4j
 - **Data Collection**: ODK, Survey CTO, Survey Solutions
