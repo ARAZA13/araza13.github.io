@@ -165,7 +165,7 @@ He enjoys longboarding for balance and good music for harmony.
     
   - This [published paper](https://economics.mit.edu/sites/default/files/publications/Trust%20in%20State%20and%20Non-State%20Actors%20-%20Evidence%20fro.pdf) , titled "Trust in State and Non-State Actors: Evidence from Dispute Resolution in Pakistan" (published in the Journal of Political Economy, 2020), is an empirical economics paper that combines field experiments, lab-in-the-field games, and survey data to study how information affects trust and behavior toward state versus non-state institutions.
 
-- I developed first in-house field team at CERP, contributed to the key elements of research design and analysis strategy, while acting as a primary point of contact between survey teams, government institutions, and tech companies. 
+- I developed and trained the first in-house field team at CERP, contributed to the key elements of research design and analysis, while acting as a primary point of contact between survey teams, government institutions, and tech companies. 
 
 {: style="text-align: justify"}
 
