@@ -4,8 +4,11 @@
   
 ## PROFESSIONAL SUMMARY:
 
-Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, building data pipelines for optimized workflows, innovation with AI,  and stakeholder management. He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes and implementation challenges. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [CID-Harvard](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
+Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, optimized analysis and building scalable data architectures for advanced technical workflows,  ready for innovation with AI. 
+
+He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes and implementation challenges. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [Harvard University’s Center for International Development (CID)](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
 {: style="text-align: justify"}
+
 
 He enjoys longboarding for balance and good music for harmony. 
 {: style="text-align: justify"}
@@ -15,6 +18,8 @@ He enjoys longboarding for balance and good music for harmony.
 {: style="text-align: justify"}
 
 ---
+
+
 
 ## Social Media Plaform(s):
 
@@ -116,26 +121,28 @@ He enjoys longboarding for balance and good music for harmony.
 
 ### [State of Global Learning Poverty - 2022 Update](https://thedocs.worldbank.org/en/doc/e52f55322528903b27f1b7e61238e416-0200022022/original/Learning-poverty-report-2022-06-21-final-V7-0-conferenceEdition.pdf)
 
-  - The [Learning Poverty](https://www.worldbank.org/en/topic/education/brief/what-is-learning-poverty) indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading.
+  - The [Learning Poverty](https://www.worldbank.org/en/topic/education/brief/what-is-learning-poverty) indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading, along with 3 complimentary concepts of learning poverty level, gap, and severity.  
 {: style="text-align: justify"}
 
-  - Focuses on both "more schooling" and "better learning" for a holistic perspective on education.
+  - Focuses on both "more schooling" and "better learning" for a holistic perspective on education, directly catalyzing the deployment and construction of RAPID framework for Post-Covid recovery of the Education sector by highlighting learning loss and human capital accumulation barriers.
 {: style="text-align: justify"}
 
-  - Utilizes data from the [Global Learning Assessment Database (GLAD)](https://github.com/worldbank/GLAD).
+- I developed and maintained core components of the World Bank’s [Global Learning Assessment Database (GLAD)](https://github.com/worldbank/GLAD) and [Learning Poverty](https://github.com/worldbank/learningpoverty) repositories, harmonizing international student assessment microdata through a scaelable workflow built in Stata, R, Github and Python.
 {: style="text-align: justify"}
 
-  - Three complementary concepts: Learning poverty level, gap, and severity.
+- I led the design and execution of the core analytical framework for the World Bank’s State of Global Learning Poverty: 2022 Update, serving as lead architect of the simulation model that estimated the impact of COVID-19 on global learning poverty. Constructed, analyzed and implemented the multidimensional Learning Poverty indicator — a flagship metric which enabled standardized global, regional, and country-level monitoring of foundational reading skills, directly informing the World Bank’s operational strategies, policy dialogue, country reports, analytical products and investments aimed at halving Learning Poverty by 2030 across client countries.
 {: style="text-align: justify"}
-  
-  - This flagship report informs Post-COVID education policy priorities and urges stakeholders for joint action.
-{: style="text-align: justify"}
+
+
 
 ### [Pakistan – Human Capital Review: Building Capabilities Throughout Life](https://openknowledge.worldbank.org/entities/publication/8748b7a7-7345-4298-9631-3f5f146c7007)
 
   - Contributed to the production: analysis, data visualizations and write-up of the Human Capital Review.
 {: style="text-align: justify"}
-  
+
+- Led the econometric analysis and production of the World Bank’s flagship Pakistan Human Capital Review 2022, applying Mincerian wage regressions, Probit models, and Heckman selection corrections to quantify returns to education and the role of cognitive and socioemotional skills in labor market outcomes. Designed accompanying data visualizations and infographics that effectively communicated complex findings on stunting, learning poverty, utilization-adjusted HCI, and demographic dividends, directly informing national policy priorities on human capital development and economic inclusion.
+{: style="text-align: justify"}
+
   - This report calls for a long-term commitment to building human capital throughout life and advocates for intersectoral linkages and continuity of policies to enhance human capital in Pakistan.
 {: style="text-align: justify"}
 
