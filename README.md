@@ -41,16 +41,16 @@ He enjoys longboarding for balance and good music for harmony.
 
 ## WORK HISTORY:
 
-### Consultant Economist & Data Scientist @ World Bank Group(WBG)
+### Consultant Economist & Data Scientist @ [World Bank Group(WBG)](https://www.worldbank.org/ext/en/home)
 (_April 2019 - June 2025_)
 
-### Project Manager @ Centre for Economic Research in Pakistan (CERP)
+### Project Manager @ 
 (_July 2018 - April 2019_)
 
-### Senior Research Associate @ Centre for Economic Research in Pakistan (CERP)
+### Senior Research Associate @ [Centre for Economic Research in Pakistan (CERP)](https://www.cerp.org.pk/) 
 (_June 2016 - July 2018_)
 
-### Teaching Fellow -  [Rethinking Financial Inclusion](https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20Files/RFI_Brochure.pdf) @ Harvard Kennedy School
+### Teaching Fellow -  [Rethinking Financial Inclusion](https://www.hks.harvard.edu/sites/default/files/HKSEE/HKSEE%20Files/RFI_Brochure.pdf) @ [Harvard Kennedy School] (https://www.hks.harvard.edu/)
 (_April 2016 - April 2016_)
 
   - Based on my work at CERP, I was invited to be a teaching fellow for an executive course at the [Kennedy School](https://www.hks.harvard.edu), where I taught the smart design for policy design & practice to an eclectic mix of senior regulators & practitioners , engaging them on cutting-edge frameworks and methodologies in micro-finance and behavioral economics. 
@@ -80,29 +80,33 @@ He enjoys longboarding for balance and good music for harmony.
 
 ## CERTIFICATIONS & RECOGNITION:
 
-  - **Certificate:** Project Management and Change management 
+  - **Certificate:** Project Management and change management for Development 
   - **Institution:** World Bank Group
+  - **Year:** 2026
    
 {: style="text-align: justify"}
 
   - **Certificate:** Cybersecurity in the age of Artificial Intelligence (AI) 
   - **Institution:** World Bank Group
+  - - **Year:** 2024
 
 {: style="text-align: justify"}
    
   - **Certificate:** Social Media Engagement 
   - **Institution:** World Bank Group
+  - - **Year:** 2023
 
 {: style="text-align: justify"}
 
   - **Award:** VPU Team Awards Winner -   _June 2023_
   - **Institution:** World Bank Group
+  - - **Year:** 2023
 
 {: style="text-align: justify"}
 
   - **Certificate:** Enterprise Design Thinking Practitioner  
   - **Institution:** IBM
-   
+   - **Year:** 2025
 {: style="text-align: justify"}
 
 
