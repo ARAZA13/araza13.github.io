@@ -4,7 +4,7 @@
 
 ---
 
-### 🌍 PROFESSIONAL SUMMARY:
+###  PROFESSIONAL SUMMARY:
 
 Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, optimized analysis and building scalable data architectures for advanced technical workflows,  ready for innovation with AI. 
 
