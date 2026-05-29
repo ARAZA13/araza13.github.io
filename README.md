@@ -108,7 +108,7 @@ He enjoys longboarding for balance and good music for harmony.
 - The [Learning Poverty](https://www.worldbank.org/en/topic/education/brief/what-is-learning-poverty) indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading, along with 3 complimentary concepts of learning poverty level, gap, and severity. It is a multi-dimensional metric which enabled standardized global, regional, and country-level monitoring of foundational reading skills, directly informing the World Bank’s operational strategies, policy dialogue, country reports, analytical products and investments aimed at halving Learning Poverty by 2030 across client countries.
 {: style="text-align: justify"}
 
--Lead architect of the core analytical framework and simulation model estimating COVID-19 impact on global learning poverty. Developed and maintained core components of [GLAD](https://github.com/worldbank/GLAD) and [Learning Poverty](https://github.com/worldbank/learningpoverty) repositories.
+- Lead architect of the core analytical framework and simulation model estimating COVID-19 impact on global learning poverty. Developed and maintained core components of [GLAD](https://github.com/worldbank/GLAD) and [Learning Poverty](https://github.com/worldbank/learningpoverty) repositories.
 {: style="text-align: justify"}
 
 
