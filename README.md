@@ -172,8 +172,10 @@ He enjoys longboarding for balance and good music for harmony.
 ### [State Authority in Pakistan](https://www.cerp.org.pk/state-authority-project/)
 
   - Monitored, evaluated, and conducted field experiments and behavioral lab games to assess the logic behind citizens’ interaction with state resources in both urban and rural settings, resulted in a published paper.
+{: style="text-align: justify"}
     
   - This [published paper](https://economics.mit.edu/sites/default/files/publications/Trust%20in%20State%20and%20Non-State%20Actors%20-%20Evidence%20fro.pdf) , titled "Trust in State and Non-State Actors: Evidence from Dispute Resolution in Pakistan" (published in the Journal of Political Economy, 2020), is an empirical economics paper that combines field experiments, lab-in-the-field games, and survey data to study how information affects trust and behavior toward state versus non-state institutions.
+{: style="text-align: justify"}
 
 - I developed and trained the first in-house field team at CERP, contributed to the key elements of research design and analysis, while acting as a primary point of contact between survey teams, government institutions, and tech companies. 
 
