@@ -137,10 +137,7 @@ He enjoys longboarding for balance and good music for harmony.
 
 ### [Pakistan – Human Capital Review: Building Capabilities Throughout Life](https://openknowledge.worldbank.org/entities/publication/8748b7a7-7345-4298-9631-3f5f146c7007)
 
-  - Contributed to the production: analysis, data visualizations and write-up of the Human Capital Review.
-{: style="text-align: justify"}
-
-- Led the econometric analysis and production of the World Bank’s flagship Pakistan Human Capital Review 2022, applying Mincerian wage regressions, Probit models, and Heckman selection corrections to quantify returns to education and the role of cognitive and socioemotional skills in labor market outcomes. Designed accompanying data visualizations and infographics that effectively communicated complex findings on stunting, learning poverty, utilization-adjusted HCI, and demographic dividends, directly informing national policy priorities on human capital development and economic inclusion.
+- Led the econometric analysis and production of the World Bank’s flagship country report on Pakistan's Human Capital Review, applying Mincerian wage regressions, Probit models, and Heckman selection corrections to quantify returns to education and the role of cognitive and socioemotional skills in labor market outcomes. Designed accompanying data visualizations and infographics that effectively communicated complex findings on stunting, learning poverty, utilization-adjusted HCI, and demographic dividends, directly informing national policy priorities on human capital development and economic inclusion.
 {: style="text-align: justify"}
 
   - This report calls for a long-term commitment to building human capital throughout life and advocates for intersectoral linkages and continuity of policies to enhance human capital in Pakistan.
