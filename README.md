@@ -38,6 +38,7 @@ He enjoys longboarding for balance and good music for harmony.
 - Technology Policy & Artificial Intelligence
 - Research Design & Data Architecture
 - Multi-dimensional Indicator Creation
+
 ---
 
 ### 💼 Work History
