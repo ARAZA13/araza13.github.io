@@ -4,13 +4,12 @@
 
 ---
 
-## PROFESSIONAL SUMMARY:
+### 🌍 PROFESSIONAL SUMMARY:
 
 Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, optimized analysis and building scalable data architectures for advanced technical workflows,  ready for innovation with AI. 
 
-He is a trained researcher with proven expertise in advanced analytics and navigating complex data landscapes and implementation challenges. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [Harvard University’s Center for International Development (CID)](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
+He is a trained researcher with proven expertise in navigating complex data landscapes and implementation challenges. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [Harvard University’s Center for International Development (CID)](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
 {: style="text-align: justify"}
-
 
 He enjoys longboarding for balance and good music for harmony. 
 {: style="text-align: justify"}
@@ -18,17 +17,6 @@ He enjoys longboarding for balance and good music for harmony.
 🌍 **Global Experience**: 
 🇵🇰 ||  🇪🇸 || 🇨🇦 || 🇺🇸 || 
 {: style="text-align: justify"}
-### 🌍 Professional Summary
-
-I am a global citizen and structured thinker with strong expertise in **economics, finance, data science, and technology**. I specialize in **econometric modeling**, advanced analytics, scalable data architectures, and evidence-based policy design — with a growing focus on leveraging **AI** and intelligent analysis for development impact, navigating complex data landscapes, and implementation challenges.
-
-My research interests usually lie where development and data meet. My work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [Harvard University’s Center for International Development (CID)](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
-{: style="text-align: justify"}
-
-**Global Experience**:  
-🇵🇰 Pakistan || 🇪🇸 Spain || 🇨🇦 Canada || 🇺🇸 United States
-
-I enjoy **longboarding** for balance and **good music** for harmony.
 
 ---
 
@@ -165,14 +153,10 @@ I enjoy **longboarding** for balance and **good music** for harmony.
 - I developed and trained the first in-house field team at CERP, contributed to the key elements of research design and analysis, while acting as a primary point of contact between survey teams, government institutions, and tech companies. 
 {: style="text-align: justify"}
 
----
-
-### 🛠️ Skills
-
 
 ---
 
-## SKILLS:
+### 🛠️ SKILLS:
 {: style="text-align: justify"}
 
 **Technical Skills**:
