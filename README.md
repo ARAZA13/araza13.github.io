@@ -94,17 +94,18 @@ He enjoys longboarding for balance and good music for harmony.
 ### 📌 Selected Projects & Publications
 
 ### [Global Education Policy Dashboard - (GEPD)](https://www.educationpolicydashboard.org)
+
 - Provided strategic and technical leadership, guiding methodology, implementation &  analysis, for the World Bank’s Global Education Policy Dashboard (GEPD), a flagship multi-country innovation platform implemented in countries including Peru (first and second round), Ethiopia (multiple rounds), Rwanda, Sierra Leone, Central African Republic, and Pakistan.
 {: style="text-align: justify"}
 
-  - This project combines several data iniatives at the Education Global Practice to give a detailed systematic overview of education sector and offers a strong basis for identifying priorities for investment in education eco-system at country - level , and policy reforms that are suited to a country-specific context.  
+- This project combines several data iniatives at the Education Global Practice to give a detailed systematic overview of education sector and offers a strong basis for identifying priorities for investment in education eco-system at country - level , and policy reforms that are suited to a country-specific context.  
 {: style="text-align: justify"}
 
 
 
 ### [State of Global Learning Poverty - 2022 Update](https://thedocs.worldbank.org/en/doc/e52f55322528903b27f1b7e61238e416-0200022022/original/Learning-poverty-report-2022-06-21-final-V7-0-conferenceEdition.pdf)
 
-  - The [Learning Poverty](https://www.worldbank.org/en/topic/education/brief/what-is-learning-poverty) indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading, along with 3 complimentary concepts of learning poverty level, gap, and severity. It is a multi-dimensional metric which enabled standardized global, regional, and country-level monitoring of foundational reading skills, directly informing the World Bank’s operational strategies, policy dialogue, country reports, analytical products and investments aimed at halving Learning Poverty by 2030 across client countries.
+- The [Learning Poverty](https://www.worldbank.org/en/topic/education/brief/what-is-learning-poverty) indicator combines primary-aged children out-of-school and pupils below a minimum proficiency in reading, along with 3 complimentary concepts of learning poverty level, gap, and severity. It is a multi-dimensional metric which enabled standardized global, regional, and country-level monitoring of foundational reading skills, directly informing the World Bank’s operational strategies, policy dialogue, country reports, analytical products and investments aimed at halving Learning Poverty by 2030 across client countries.
 {: style="text-align: justify"}
 
 -Lead architect of the core analytical framework and simulation model estimating COVID-19 impact on global learning poverty. Developed and maintained core components of [GLAD](https://github.com/worldbank/GLAD) and [Learning Poverty](https://github.com/worldbank/learningpoverty) repositories.
@@ -116,12 +117,12 @@ He enjoys longboarding for balance and good music for harmony.
 - Led the econometric analysis and production of the World Bank’s flagship country report on Pakistan's Human Capital Review, applying Mincerian wage regressions, Probit models, and Heckman selection corrections to quantify returns to education and the role of cognitive and socioemotional skills in labor market outcomes. Designed accompanying data visualizations and infographics that effectively communicated complex findings on stunting, learning poverty, utilization-adjusted HCI, and demographic dividends, directly informing national policy priorities on human capital development and economic inclusion.
 {: style="text-align: justify"}
 
-  - This report calls for a long-term commitment to building human capital throughout life and advocates for intersectoral linkages and continuity of policies to enhance human capital in Pakistan.
+- This report calls for a long-term commitment to building human capital throughout life and advocates for intersectoral linkages and continuity of policies to enhance human capital in Pakistan.
 {: style="text-align: justify"}
 
 ### [Data - Depot Pakistan](https://datacatalog.worldbank.org/search/dataset/0038010/Data-Depot---Pakistan) 
 
-  - Devised & implemented a systematic & scaleable data cleaning, harmonization, and analysis strategy for the assembly and aggregation of 100+ complex micro-datasets from multiple data sources like household surveys, government censuses, and administrative/monitoring datasets. All applicable code behind this initiative is open-source and available on [GitHub](https://github.com/worldbank/Data_Depot_Education_Pakistan).
+- Devised & implemented a systematic & scaleable data cleaning, harmonization, and analysis strategy for the assembly and aggregation of 100+ complex micro-datasets from multiple data sources like household surveys, government censuses, and administrative/monitoring datasets. All applicable code behind this initiative is open-source and available on [GitHub](https://github.com/worldbank/Data_Depot_Education_Pakistan).
 {: style="text-align: justify"}
 
 - Calculated key education indicators, created proprietary panels of point estimates from harmonized data across multiple sources, and developed a scalable R Shiny application that supports proactive indicator tracking and provides open access to standardized microdata.
@@ -133,21 +134,18 @@ He enjoys longboarding for balance and good music for harmony.
 
 ### [Learning and Educational Achievement in Paksitan Schools (LEAPS)](https://www.leaps.hks.harvard.edu)
 
-  - With 20+ years of high-impact education research, LEAPS is the largest body of education research in Pakistan and one of the largest in any low-income country.
+- With 20+ years of high-impact education research, LEAPS is the largest body of education research in Pakistan and one of the largest in any low-income country.
 {: style="text-align: justify"}
 
-  - I was involved in the latest round of LEAPS, and contributed significantly towards tracking and tagging students of the panel study, deploying the latest round of questionnaires to measure cognitive and non-cognitive skills of the sample,  building culturally sensitive teams for qualitative and quantitative data analysis, stakeholder management, and research design to answer key education and labor market questions.
+- I was involved in the latest round of LEAPS, and contributed significantly towards tracking and tagging students of the panel study, deploying the latest round of questionnaires to measure cognitive and non-cognitive skills of the sample,  building culturally sensitive teams for qualitative and quantitative data analysis, stakeholder management, and research design to answer key education and labor market questions.
 {: style="text-align: justify"}
 
-  - Designed and worked on data collection and methodology on a series of off-shoot studies including [the education financing project](https://www.leaps.hks.harvard.edu/research/education-financing) where I contributed to key elements of project design from inception to execution: developed and tested the screener surveys, assembled baseline, midline and endline datasets, provided analytical and field support to a complex RCT to measure the impact of removing credit constraints and providing education support services to private and public schools. 
+- Designed and worked on data collection and methodology on a series of off-shoot studies including [the education financing project](https://www.leaps.hks.harvard.edu/research/education-financing) where I contributed to key elements of project design from inception to execution: developed and tested the screener surveys, assembled baseline, midline and endline datasets, provided analytical and field support to a complex RCT to measure the impact of removing credit constraints and providing education support services to private and public schools. 
 {: style="text-align: justify"}
 
 ### [State Authority in Pakistan](https://www.cerp.org.pk/state-authority-project/)
 
-  - Monitored, evaluated, and conducted field experiments and behavioral lab games to assess the logic behind citizens’ interaction with state resources in both urban and rural settings, resulted in a published paper.
-{: style="text-align: justify"}
-    
-  - This [published paper](https://economics.mit.edu/sites/default/files/publications/Trust%20in%20State%20and%20Non-State%20Actors%20-%20Evidence%20fro.pdf) , titled "Trust in State and Non-State Actors: Evidence from Dispute Resolution in Pakistan" (published in the Journal of Political Economy, 2020), is an empirical economics paper that combines field experiments, lab-in-the-field games, and survey data to study how information affects trust and behavior toward state versus non-state institutions.
+- This [published paper](https://economics.mit.edu/sites/default/files/publications/Trust%20in%20State%20and%20Non-State%20Actors%20-%20Evidence%20fro.pdf) , titled "Trust in State and Non-State Actors: Evidence from Dispute Resolution in Pakistan" (published in the Journal of Political Economy, 2020), is an empirical economics paper that combines field experiments, lab-in-the-field games, and survey data to study how information affects trust and behavior toward state versus non-state institutions.
 {: style="text-align: justify"}
 
 - I developed and trained the first in-house field team at CERP, contributed to the key elements of research design and analysis, while acting as a primary point of contact between survey teams, government institutions, and tech companies. 
