@@ -142,7 +142,6 @@ He enjoys longboarding for balance and good music for harmony.
 {: style="text-align: justify"}
 
 - Designed and worked on data collection and methodology on a series of off-shoot studies including [the education financing project](https://www.leaps.hks.harvard.edu/research/education-financing) where I contributed to key elements of project design from inception to execution: developed and tested the screener surveys, assembled baseline, midline and endline datasets, provided analytical and field support to a complex RCT to measure the impact of removing credit constraints and providing education support services to private and public schools resulting in this [working paper](https://www.nber.org/system/files/working_papers/w34042/w34042.pdf) which demonstrates how financial and educational input constraints can significantly affect school survival while underscoring that the fungibility of entrepreneurial support matter.
-
 {: style="text-align: justify"}
 
 ### [State Authority in Pakistan](https://www.cerp.org.pk/state-authority-project/)
