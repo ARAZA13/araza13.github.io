@@ -6,7 +6,9 @@
 
 ###  PROFESSIONAL SUMMARY:
 
-Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, optimized analysis and building scalable data architectures for advanced technical workflows,  ready for innovation with AI. 
+Ahmed is a global citizen - a structured thinker, trained in economics, finance, data science and technology. He is skilled in econometric modeling, design thinking, optimized analysis and building scalable data architectures for advanced technical workflows,  ready for innovation with AI.
+{: style="text-align: justify"}
+
 
 He is a trained researcher with proven expertise in navigating complex data landscapes and implementation challenges. His research interests usually lie where development and data meet. His work on promoting evidence based policy-making has allowed him to culminate affiliations with renowned institution(s) such as [World Bank Group](https://www.worldbank.org/en/home), [Harvard University’s Center for International Development (CID)](https://epod.cid.harvard.edu), [CERP](https://www.cerp.org.pk), & [BSE](https://bse.eu).
 {: style="text-align: justify"}
