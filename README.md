@@ -170,7 +170,7 @@ He enjoys longboarding for balance and good music for harmony.
 - **Version Control**: Github, Visual Studio Code
 - **Office Suites**: Microsoft Office and Google Workspace
 - **Artificial Intelligence**: OpenAI playground, Grok, DeepSeek, Claude, Gemini, Dall-E, Copilot, Jasper,  Midjourney, n8n & others.
-- **Languages**: English (native),  Urdu and Punjabi ((proficient), Spanish (intermediate), and Arabic (basic).
+- **Languages**: English (native),  Urdu and Punjabi (proficient), Spanish (intermediate), French (passive), and Arabic (basic).
 
 {: style="text-align: justify"}
 
