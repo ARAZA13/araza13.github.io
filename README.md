@@ -85,7 +85,7 @@ He enjoys longboarding for balance and good music for harmony.
 - **Enterprise Design Thinking Practitioner** — IBM (2025)
 - **Cybersecurity in the Age of Artificial Intelligence** — World Bank Group (2024)
 - **Social Media Engagement** — World Bank Group (2023)
-- **VPU Team Awards Winner** — World Bank Group (June 2023)
+- **VPU Team Awards Winner** — World Bank Group (2023)
 
 ---
 
