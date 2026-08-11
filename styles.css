@@ -148,6 +148,7 @@ a:hover { color: #5eead4; }
   color: var(--text-muted);
   max-width: 36ch;
   margin-bottom: 2rem;
+  text-align: justify;
 }
 
 .hero-cta {
@@ -247,6 +248,7 @@ a:hover { color: #5eead4; }
   margin-bottom: 1.25rem;
   color: var(--text-muted);
   max-width: 65ch;
+  text-align: justify;
 }
 
 .about-text p:last-child { margin-bottom: 0; }
@@ -372,6 +374,7 @@ a:hover { color: #5eead4; }
   font-size: 0.925rem;
   color: var(--text-muted);
   line-height: 1.6;
+  text-align: justify;
 }
 
 /* ===== Skills ===== */
@@ -399,6 +402,7 @@ a:hover { color: #5eead4; }
   border-bottom: 1px solid var(--border);
   font-size: 0.95rem;
   color: var(--text-muted);
+  text-align: justify;
 }
 
 .skills-group li:last-child { border-bottom: none; }
@@ -450,6 +454,7 @@ a:hover { color: #5eead4; }
   font-size: 0.85rem;
   color: var(--text-faint);
   line-height: 1.5;
+  text-align: justify;
 }
 
 .cert-list {
@@ -461,6 +466,7 @@ a:hover { color: #5eead4; }
   border-bottom: 1px solid var(--border);
   font-size: 0.95rem;
   color: var(--text-muted);
+  text-align: justify;
 }
 
 .cert-list li:last-child { border-bottom: none; }
@@ -491,6 +497,7 @@ a:hover { color: #5eead4; }
   max-width: 40ch;
   margin: 0 auto 2rem;
   font-size: 1.05rem;
+  text-align: justify;
 }
 
 .social-links {
